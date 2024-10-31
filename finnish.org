@@ -430,14 +430,6 @@ kiriakieli, puhekieli
 | Missä haarukka ya lautanen ovat? | where are the fork and the plate     |
 | Heillä on viela jano             | They are still thirsty               |
 
-Missä pihvi ya makkara on? Suuri lautanen kiitos
-Seissomme liian kaukana
-Me ollemme täällä ja silta on tuolla, we are here and the bridge is there
-linna on liian kaukana, the castle is too far
-Me olemme taas täällä, we are here back again
-
-
-Ja lepää kotona pari päivää
 
 
 ** Section 1 Unit 13 Describe Amounts
@@ -535,164 +527,166 @@ Phrases
 
 ** Section 1 Unit 15 Talk about chores
 
-koska, because
-että, that and
+| koska | because  |
+| että  | that and |
 
-tuoli, chair
-taulu, picture
-lamppu, lamp
-kello, a clock
-lattia, floor
-kattoa, roof ceiling
-hiki, sweat
+| tuoli  | chair        |
+| taulu  | picture      |
+| lamppu | lamp         |
+| kello  | a clock      |
+| lattia | floor        |
+| kattoa | roof ceiling |
+| hiki   | sweat        |
 
-halpa, cheap
-kallis, expensive
-sotkuinen, messy
-siisti, tidy
-rikki, broken
+| halpa     | cheap     |
+| kallis    | expensive |
+| sotkuinen | messy     |
+| siisti    | tidy      |
+| rikki     | broken    |
 
-maalata, to paint
-korjata, to repair
-siivota, to clean
-tajuta, to realize
-grillata, to barbecue to grill
-tiskaan, doing the dishes
+verbs
+| maalata  | to paint             |
+| korjata  | to repair            |
+| siivota  | to clean             |
+| tajuta   | to realize           |
+| grillata | to barbecue to grill |
+| tiskaan  | doing the dishes     |
 
-grammer
+| maalaan   | I paint       |
+| maalaat   | you paint     |
+| maalaa    | he/she paints |
+| maalamme  | we paint      |
+| maalaavat | they paint    |
 
-maalaan, I paint
-maalaat, you paint
-maalaa, he/she paints
-maalamme, we paint
-maalaavat, they paint
+| siivoamme | we clean      |
+| siivoaa   | he she cleans |
+| siivoat   | you clean     |
+| siivoavat | they clean    |
 
-siivoamme, we clean
-siivoaa, he she cleans
-siivoat, you clean
-siivoavat, they clean
+| korjaan  | I repair    |
+| kojaat   | you repair  |
+| kojaatte | you repair  |
+| kojaavat | they repair |
 
-korjaan, I repair
-kojaat, you repair
-kojaatte, you repair
-kojaavat, they repair
-
-tiskaan, I am doing the dishes
-tiskaat, You are doing the dishes
-tiskaa, he/she is doing the dishes
-tiskaamme, we are doing the dishes
-tiskaavat, they are doing the dishes
+| tiskaan   | I am doing the dishes      |
+| tiskaat   | You are doing the dishes   |
+| tiskaa    | he/she is doing the dishes |
+| tiskaamme | we are doing the dishes    |
+| tiskaavat | they are doing the dishes  |
 
 phrases
-Siivoan taloa, cleaning the house
-Äiti korjaa vanhaa autoa, mother is fixing the old car
-Äiti malaa taloa, mothe is painting the house
-Siivoako hän samaa asuntoa, Is he cleaning the same apartment
-Siivoatko lattia, Are you cleaning the floor
-Korjaako insinööri lamppua, Is the engineer fixing the lamp
-Minulla on hiki, I am sweating
-Poika tajuatko sinä että tämä huone on sotkuinen, Boy do yo realize that the room is messy
-Sivoaako hän piha - Sivoaa, Is he cleaning the yard - Yes he is
+| Siivoan taloa                                    | cleaning the house                       |
+| Äiti korjaa vanhaa autoa                         | mother is fixing the old car             |
+| Äiti malaa taloa                                 | mothe is painting the house              |
+| Siivoako hän samaa asuntoa                       | Is he cleaning the same apartment        |
+| Siivoatko lattia                                 | Are you cleaning the floor               |
+| Korjaako insinööri lamppua                       | Is the engineer fixing the lamp          |
+| Minulla on hiki                                  | I am sweating                            |
+| Poika tajuatko sinä että tämä huone on sotkuinen | Boy do yo realize that the room is messy |
+| Sivoaako hän piha - Sivoaa                       | Is he cleaning the yard - Yes he is      |
 
 ** Section 1 Unit 16 Say what can you do
 
-Hys, ssh hush
+| Hys | ssh hush |
 
-kuinka, How
-joka, who which every
+| kuinka | How             |
+| joka   | who which every |
+| sekä   | both            |
 
-sekä, both
+nouns
+| laulaja  | a singer |
+| tanssija | a dancer |
 
-laulaja, a singer
-tanssija, a dancer
+adjectives
+| vakava   | serious  |
+| viisas   | wise     |
+| lahjakas | talanted |
+| hiljaa   | quiet    |
 
-vakava, serious
-viisas, wise
-lahjakas, talanted
-hiljaa, quiet
+verbs
+| lukea     | to read  |
+| kirjoitta | to write |
+| ratsastaa | to ride  |
+| hiljaa    | be quiet |
 
+| Osaan   | I can know |
+| Osaa    | he she can |
+| Osaatte | you can    |
+| Osaavat | they can   |
 
-lukea, to read
-kirjoitta, to write
-ratsastaa, to ride
-hiljaa, be quiet
-
-Osaan, I can know
-Osaa, he she can
-Osaatte, you can
-Osaavat, they can
-
-Osaako hän piirtää, Can he draw
-Hän osaa maalata hyvin, She can paint well
-Pöllönen puhuu sekä tanskaa että norjaa
-Kuinka moni suomalainen osaa ruotsia, How many Finns know swedish
+phrases
+| Osaako hän piirtää                      | Can he draw                               |
+| Hän osaa maalata hyvin                  | She can paint well                        |
+| Pöllönen puhuu sekä tanskaa että norjaa | Pöllönen speaks both danish and norwegian |
+| Kuinka moni suomalainen osaa ruotsia    | How many Finns know swedish               |
 
 ** Section 2 Unit 1 Make Requests
 
-Mitä, What
+| Mitä | What |
+| Nam  | yum  |
 
-Nam, yum
+nouns
+| tee     | tea               |
+| sokeri  | sugar             |
+| kerma   | cream             |
+| glögi   | glogi mulled wine |
+| pirtelö | milkshake         |
+| leipä   | bread             |
+| kuppi   | cup               |
+| kakku   | cake              |
+| pala    | a piece           |
 
-tee, tea
-sokeri, sugar
-kerma, cream
-glögi, glogi mulled wine
-pirtelö, milkshake
-leipä, bread
-kuppi, cup
-kakku, cake
-pala, a piece
+adjectives
+| pehmeä | soft      |
+| kova   | hard      |
+| tumma  | dark      |
+| jotain | something |
+| lisää  | more      |
 
-pehmeä, soft
-kova, hard
-tumma, dark
-jotain, something
-lisää, more
+| haluaa | to want  |
+| syödä  | to eat   |
+| juoda  | to drink |
 
-haluaa, to want
-syödä, to eat
-juoda, to drink
+| syötävää | edible to eat      |
+| juotavaa | drinkable to drink |
 
-syötävää, edible to eat
-juotavaa, drinkable to drink
-
-Se on liian kuumaa, It is too hot
-Vain vähän kermaa, kiitos, Just a bit of cream please
-kermaa, some cream
-Yksi kahvi kiitos Haluatko maitoa vai kermaa, One coffee please Do you want some milk or cream
-Vesi on kylmää, The water is cold
-Tämä vihreä jäätelo on kylmää mutta hyvää, This green icecream is cold but good
-Haluan syödä pullaa, I want to eat pulla
-Paljon vai vähän, A lot or a little
-Kuka halua lisää kakkua, Who wants more cake
-lisää juotavaa, something more to drink
-Haluatko lisää juotavaa, Do you want something more to drink
-Leipä on pehmeää, The bread is soft
-Mitä hän haluaa? Kahviako?, What does he want? Coffee?
-Haluan lisää pehmeää jäätelöä, I want more soft isecream
-Onko teilla jotain kylmää juotavaa, Do you have something cold to drink
-Haluatko jotain syötävää, Do you want something to eat
+| Se on liian kuumaa                           | It is too hot                                    |                            |
+| Vain vähän kermaa                            | kiitos                                           | Just a bit of cream please |
+| kermaa                                       | some cream                                       |                            |
+| Yksi kahvi kiitos Haluatko maitoa vai kermaa | One coffee please Do you want some milk or cream |                            |
+| Vesi on kylmää                               | The water is cold                                |                            |
+| Tämä vihreä jäätelo on kylmää mutta hyvää    | This green icecream is cold but good             |                            |
+| Haluan syödä pullaa                          | I want to eat pulla                              |                            |
+| Paljon vai vähän                             | A lot or a little                                |                            |
+| Kuka halua lisää kakkua                      | Who wants more cake                              |                            |
+| lisää juotavaa                               | something more to drink                          |                            |
+| Haluatko lisää juotavaa                      | Do you want something more to drink              |                            |
+| Leipä on pehmeää                             | The bread is soft                                |                            |
+| Mitä hän haluaa? Kahviako?                   | What does he want? Coffee?                       |                            |
+| Haluan lisää pehmeää jäätelöä                | I want more soft isecream                        |                            |
+| Onko teilla jotain kylmää juotavaa           | Do you have something cold to drink              |                            |
+| Haluatko jotain syötävää                     | Do you want something to eat                     |                            |
 
 
 * From Start to Finnish
 
 *** Vowel balance
 
-1  2  3
--------
-ä  e  a
-ö  i  o
-y     u
+| 1 | 2 | 3 |
+|---|---|---|
+| ä | e | a |
+| ö | i | o |
+| y | u |   |
 
-1 does not mix with 3
-2 mixes with both
-the vowels in the stem determine the vowels in the ending
-compound words take all vowels, but the last word determinse the ending
+- 1 does not mix with 3
+- 2 mixes with both
+- the vowels in the stem determine the vowels in the ending
+- compound words take all vowels, but the last word determinse the ending
 
-auto-ssa, in a car
-keittiö+ssä, in a kitchen
-puhut+ko, do you speak
-kysyt+kö, do you ask
+- auto-ssa, in a car
+- keittiö+ssä, in a kitchen
+- puhut+ko, do you speak
+- kysyt+kö, do you ask
 
 *** Cases
 
