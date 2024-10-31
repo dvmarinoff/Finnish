@@ -1,5 +1,7 @@
 Finnish Lang
 
+This file uses org mode, it makes more sense if you are an Emacs user.
+
 * Resources
 
 - Complete Finish, Leney Terttu, (full language course)
