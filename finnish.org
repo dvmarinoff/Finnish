@@ -1,0 +1,783 @@
+Finnish Lang
+
+* Resources
+
+- Complete Finish, Leney Terttu, (full language course)
+- From Start to Finnish, White Leila, (begginer, best grammer and structure)
+- Uusi Kielimme, (lesson plan, vocabulary, grammer)
+- Yle Kielikoulu, (listening, video, vocabulary)
+- Duolingo,
+
+* Duolingo
+
+        puhekieli
+| minä | mä | I      |   |
+| sinä | sä | you    |   |
+| hän  | se | he/she |   |
+| me   | me | we     |   |
+| te   | te | pl.you |   |
+| he   | ne | they   |   |
+
+| minä olen | mä on | I am      |
+| sinä olet | sä on | you are   |
+| hän on    | se on | he/she is |
+| me olemme | me on | we are    |
+| te olette | te on | you are   |
+| he ovat   | ne on | they are  |
+
+| minulla on | I have       |
+| sinulla on | you have     |
+| hänellä on | he/she has   |
+| meillä on  | we have      |
+| teillä on  | pl. you have |
+| heillä on  | they have    |
+
+kiriakieli, puhekieli
+
+|Subject             | Adjective possesive pronoun |
+| I                  | Mine                        |
+| minä | mä | I      | minun  | mun    | mine    |
+| sinä | sä | you    | sinun  | sun    | yours   |
+| hän  | se | he/she | hänen  | sen    | his/her |
+| me   | me | we     | meidän | meiän  | ours    |
+| te   | te | pl.you | teidän | teiän  | yours   |
+| he   | ne | they   | heidän | niiden | theirs  |
+
+
+| Words      |                  |
+|------------+------------------|
+| кuka       | Who              |
+| missä      | Where in which   |
+| millainen  | What kind of     |
+| miksi      | Why              |
+| mikä       | What which       |
+| mutta      | but              |
+| tämä       | this             |
+| tuo        | that             |
+| nämä       | these            |
+| nuo        | those            |
+| täällä     | here             |
+| tuolla     | there            |
+| tässä      | right here       |
+| tuossa     | right there      |
+| niin       | such             |
+| ja         | and              |
+| vai        | or               |
+| Kyllä      | yes formal       |
+| Joo        | yes yeah         |
+| Ei         | no               |
+| Terve      | hello            |
+| Tervetuloa | welcome          |
+| Moi        | Hi               |
+| Hei        | Hi               |
+| Moikka     | bye              |
+| Heippa     | bye              |
+| Näkemiin   | goodbye          |
+| Nähdään    | see you          |
+| anteeksi   | sorry excuse me  |
+| kiitos     | thank you please |
+| kiiti      | thanks           |
+| kippis     | cheers           |
+| jee        | yay              |
+| au         | ouch             |
+| hyi        | yuck ew eww      |
+| No         | well             |
+| herra      | Mr. gentleman    |
+| rouva      | Ms. Mrs.         |
+
+
+| Nouns       |                                       |
+|-------------+---------------------------------------|
+| mies        | man                                   |
+| nainen      | woman                                 |
+| lapsi       | child                                 |
+| tyttö       | a girl                                |
+| poika       | a boy                                 |
+| vauva       | a baby                                |
+| isä         | father                                |
+| äiti        | mother                                |
+| vaari       | grandfather                           |
+| mummo       | grandmother                           |
+| perhe       | family                                |
+| pari        | a couple                              |
+| ihminen     | a human being human person            |
+| velho       | wizard                                |
+| lemmikki    | a pet                                 |
+| kissa       | cat                                   |
+| pupu        | bunny                                 |
+| perhonen    | a butterfly                           |
+| undulaatti  | parakeet                              |
+| käärme      | snake                                 |
+| poni        | pony                                  |
+| koira       | a dog                                 |
+| tassu       | paw                                   |
+| käsi        | hand                                  |
+| häntä       | tail                                  |
+| lelu        | a toy                                 |
+| nalle       | teddy bear                            |
+| maa         | a country a land                      |
+| meri        | a sea                                 |
+| vesi        | water                                 |
+| tuli        | fire                                  |
+| kivi        | stone rock                            |
+| ystävä      | friend                                |
+| soitin      | musical instrument                    |
+| kantele     | kantele traditional string instrument |
+| viikinki    | viking                                |
+| shamaani    | shaman                                |
+| kaupunki    | city                                  |
+| laulu       | song                                  |
+| bändi       | the band                              |
+| auto        | a car                                 |
+| kännykkä    | cell phone                            |
+| nimi        | a name                                |
+| vuosi       | year                                  |
+| kynä        | pen                                   |
+| kirja       | book                                  |
+| oppikirja   | textbook                              |
+| opettaja    | teacher                               |
+| sivu        | page                                  |
+| sana        | word                                  |
+| lausea      | sentence                              |
+| murre       | dialect                               |
+| kieli       | language                              |
+| kysymys     | question                              |
+| vastaus     | answer                                |
+| hinta       | price                                 |
+| radio       | radio                                 |
+| talo        | house                                 |
+| koti        | home                                  |
+| huone       | room                                  |
+| sohva       | sofa                                  |
+| pöytä       | table                                 |
+| sänky       | a bed                                 |
+| televisio   | television                            |
+| piha        | yard                                  |
+| kellari     | basement                              |
+| veranta     | veranda                               |
+| asunto      | apartment                             |
+| ruoka       | food                                  |
+| maito       | milk                                  |
+| mehu        | juice                                 |
+| kahvi       | coffee                                |
+| kahviko?    | a coffee?                             |
+| limonadi    | soda pop                              |
+| liha        | meat                                  |
+| mämmi       | sweet rye pudding                     |
+| juusto      | cheese                                |
+| kana        | chicken                               |
+| jäätelö     | ice cream                             |
+| salaattia   | lettuce                               |
+| pulla       | pulla cardamom bread                  |
+| omena       | apple                                 |
+| sitruuna    | lemon                                 |
+| peruna      | patato                                |
+| tomaatti    | tomato                                |
+| sipuli      | onion                                 |
+| kala        | fish                                  |
+| makkara     | sausage                               |
+| pihvi       | steak                                 |
+| grilli      | grill                                 |
+| mauste      | spice                                 |
+| pippuri     | pepper                                |
+| suola       | salt                                  |
+| salaatti    | salad                                 |
+| kastike     | dressing                              |
+| sinappi     | mustard                               |
+| ketsuppi    | ketchup                               |
+| litra       | a litre                               |
+| kilo        | a kilogram of                         |
+| pullo       | bottle                                |
+| lautanen    | plate                                 |
+| haarukka    | fork                                  |
+| veitsi      | knife                                 |
+| kuppi       | cup                                   |
+| lasi        | glass                                 |
+| museo       | museum                                |
+| rakennus    | building                              |
+| teatteri    | theater                               |
+| monumentti  | monument                              |
+| kirkko      | church                                |
+| stadion     | stadium                               |
+| oopperatolo | opera house                           |
+| puisto      | park                                  |
+| linna       | castle                                |
+| silta       | bridge                                |
+| tori        | square                                |
+| kahvila     | coffee shop cafe                      |
+| kartta      | map                                   |
+
+
+
+| Adjectives  |                          |
+|-------------+--------------------------|
+| aina        | always                   |
+| usein       | often                    |
+| harvoin     | rarely seldom            |
+| todella     | really                   |
+| tosi        | very                     |
+| nyt         | now                      |
+| monet       | many                     |
+| paljon      | lot of                   |
+| onnea       | good luck                |
+| tärkeä      | important                |
+| yhdessä     | together in one          |
+| naimisissa  | married                  |
+| onnellinen  | happy content glad       |
+| iloinen     | happy jolly cheerful     |
+| surullinen  | sad                      |
+| vihainen    | angry                    |
+| rauhallinen | calm                     |
+| rehellinen  | honest                   |
+| ujo         | shy                      |
+| hiljainen   | quiet                    |
+| hauska      | funny                    |
+| tylsä       | boring blunt             |
+| terävä      | sharp                    |
+| nopea       | fast                     |
+| nopeasti    | fast quickly             |
+| hidas       | slow                     |
+| fiksu       | smart                    |
+| tyhmä       | stupid                   |
+| tuhma       | naughty                  |
+| kiltti      | a good kind well behaved |
+| söpö        | cute adorable            |
+| ahkera      | hard working             |
+| laiska      | lazy                     |
+| vahva       | strong                   |
+| heikko      | weak                     |
+| painava     | heavy                    |
+| kevyt       | light                    |
+| kova        | hard                     |
+| pehmeä      | soft                     |
+| hyvin       | well                     |
+| likainen    | dirty                    |
+| puhdas      | clean                    |
+| mukava      | nice confortable         |
+| kaunis      | beautiful                |
+| komea       | handsome                 |
+| ruma        | ugly                     |
+| hyvä        | good good job            |
+| lihava      | fat                      |
+| laiha       | skinny                   |
+| paksu       | thick                    |
+| ohut        | thin                     |
+| pieni       | little small             |
+| iso         | big                      |
+| suuri       | large                    |
+| korkea      | high tall                |
+| matala      | low                      |
+| pitkä       | tall long                |
+| lyhyt       | short                    |
+| leveä       | wide                     |
+| kapea       | narrow                   |
+| kylmä       | cold                     |
+| lämmin      | warm                     |
+| kuuma       | hot                      |
+| kuiva       | dry                      |
+| märkä       | wet                      |
+| pohjoinen   | northen north            |
+| vihreä      | green                    |
+| ruskea      | brown                    |
+| musta       | black                    |
+| sininen     | blue                     |
+| punainen    | red                      |
+| oranssi     | orange                   |
+| valkoinen   | white                    |
+| keltainen   | yellow                   |
+| valoisa     | bright                   |
+| pimeä       | dark                     |
+| tumma       | dark                     |
+| keltainen   | yellow                   |
+| väärin      | wrong                    |
+| väärä       | the wrong thing          |
+| oikein      | correct right            |
+| oikea       | right correct            |
+| uusi        | new                      |
+| nuori       | young                    |
+| vanha       | old                      |
+| moderni     | modern                   |
+| valmis      | ready                    |
+| jo          | already                  |
+| vielä       | still                    |
+| halpa       | cheap                    |
+| kallis      | expensive                |
+| rikas       | rich                     |
+| köyhä       | poor                     |
+| ilmainen    | free of charge           |
+| maksullinen | costs                    |
+| vaikea      | difficult                |
+| helppo      | easy                     |
+| pyöreä      | round                    |
+| jano        | thurst                   |
+| nälkä       | hungry                   |
+| makea       | sweet                    |
+| outo        | strange weird            |
+| melko       | pretty quite             |
+| auki        | open                     |
+| kiinni      | closed                   |
+| täysi       | full                     |
+| tyhjä       | empty                    |
+| kaukana     | far far away             |
+| lähellä     | near close nearby        |
+| ehkä        | maybe                    |
+| sama        | the same                 |
+| taas        | again back               |
+| liian       | too                      |
+| loppu       | gone end out of          |
+| tarpeeksi   | enough                   |
+| liikaa      | too much                 |
+
+
+| Verbs   |          |
+|---------+----------|
+| istua   | to sit   |
+| seisoo  | to stand |
+| naurat  | to laugh |
+| itken   | to cry   |
+| tanssia | to dance |
+| laulaa  | to sing  |
+| kasvaa  | to grow  |
+| oma     | own      |
+
+| numbers |     |
+|---------+-----|
+| yksi    | one |
+
+
+** Names
+
+| Aino     | female name          |
+| Joni     | name                 |
+| Otso     | male name            |
+| Roosa    | female name          |
+| Tyyne    | female name          |
+| Väinö    | name                 |
+| Pyry     | name                 |
+| Miikka   | male name            |
+| Kaisa    | female name          |
+| Pöllönen | last name            |
+| Pöllö    | last name            |
+| Pöllölä  | last name            |
+| Musti    | traditional dog name |
+| Mirri    | pet name             |
+
+| Suomi        | finland the finnish language  |
+| suomalainen  | Finnish a Finnish the Finnish |
+| Norja        | Norway                        |
+| norjalainen  | norwegian                     |
+| Viro         | Estonia estonian language     |
+| virolainen   | estonian                      |
+| saamelainen  | a sami                        |
+| Ruotsi       | Sweden                        |
+| ruotsalainen | swidish                       |
+| Islanti      | Iceland                       |
+| Venäjä       | Russia                        |
+| venäläinen   | russian                       |
+| Tanska       | Denmark                       |
+| tanskalainen | Danish                        |
+| ranska       | french                        |
+| saksa        | german                        |
+| espanja      | spanish                       |
+| japani       | japanese                      |
+| kiina        | china                         |
+| kiinalainen  | chinese                       |
+| englanti     | english                       |
+| korea        | Korean language               |
+| unkari       | Hungarian language            |
+| aasialainen  | asian                         |
+
+** Phrases
+
+| Hyvää Huomenta!          | good morning             |
+| Hyvää Päivää!            | good day formal          |
+| Hyvää Iltaa!             | good evening             |
+| Hyvää yötä!              | good night               |
+| Paljon onnea!            | congratulations          |
+| Mitä kuuluu?             | How are you              |
+| Kiitos hyvää             | I`m fine thank you       |
+| Ole hyvä - Kiitos!       | Here you are - Thank you |
+| Kiitos! - Ei kestä       | Thank you - No worries   |
+| Anteeksi! - Ei se mitään | I'm sorry - No problem   |
+| Mä oon                   | I am <name>              |
+| Minun nimeni on <name>   | My name is               |
+| Hauska tutustoa!         | Nice to meet you         |
+| Oho                      | oh wow                   |
+| Voi ei                   | Oh no                    |
+
+| minä olen                | I am                  |
+| sinä olet                | you are               |
+| Anteeksi kuka sina olet? | Excuse me who are you |
+| Hän on <something>       | He/She is <something> |
+| Tämä on Elsa             | This is Elsa          |
+| Olet mukava ihminen      | You are a nice person |
+| Minulla on koira         | I have a dog          |
+| Tule Musti tähän!        | Come here Musti       |
+| Kato Musti kato!         | Look Musti look       |
+| Musti tassu Hyvä Maahan  | Musti paw Good Down   |
+| Onko hän iloinen         | Is she happy          |
+| Hän on iloinen           | She is happy          |
+
+| Millainen asunto teillä on?      | What is your apartment like?         |
+| Millainen sauna teillä on?       | What kind of sauna do you have?      |
+| Millainen salaatti täma on?      | What kind of salad is this?          |
+| Onko hänella kylma? On           | Is he cold? He is                    |
+| Onko sinulla kylma? On           | Are you cold? I am                   |
+| Kahviko? Joo ja pulla kiitos.    | A coffee? Yeah and a pulla please?   |
+| Yksi Kahvi ole hyvä.             | One coffee there you are             |
+| Missä te istutte?                | where are you sitting?               |
+| Me nauramme ya te nauratte       | We are laughing and you are laughing |
+| Missä haarukka ya lautanen ovat? | where are the fork and the plate     |
+| Heillä on viela jano             | They are still thirsty               |
+
+Missä pihvi ya makkara on? Suuri lautanen kiitos
+Seissomme liian kaukana
+Me ollemme täällä ja silta on tuolla, we are here and the bridge is there
+linna on liian kaukana, the castle is too far
+Me olemme taas täällä, we are here back again
+
+
+Ja lepää kotona pari päivää
+
+
+** Section 1 Unit 13 Describe Amounts
+
+Words
+| ruoka     | food              |
+| maito     | milk              |
+| mehu      | juice             |
+| limonadi  | soda pop          |
+| liha      | meat              |
+| mämmi     | sweet rye pudding |
+| makea     | sweet             |
+| hapan     | sour              |
+| juusto    | cheese            |
+| kana      | chicken           |
+| jäätelö   | ice cream         |
+| salaattia | lettuce           |
+| litra     | a litre           |
+| kilo      | a kilogram of     |
+| pullo     | bottle            |
+| oranssi   | orange            |
+| loppu     | gone end out of   |
+| tarpeeksi | enough            |
+| liikaa    | too much          |
+| hyi       | yuck ew eww       |
+
+Grammar
+| kotona    | at home           |
+
+Pharases
+| Mehu on melko makeaa         | The juice is pretty sweet     |
+| Se on maitoa                 | It is milk                    |
+| Se on ketsuppia              | It is ketchup                 |
+| Se on limonadia              | It is soda                    |
+| Se on pullo mustaa limonadia | It is a bottle of black soda  |
+| Tämä liha on outoa           | This meat is strange          |
+| Tämä on samaa ruokaa         | This is the same food         |
+| Onko tämä justoa             | Is this cheese                |
+| Onko tuo kalaa               | Is that fish                  |
+| Onko tuo juustoa vai maitoa  | Is that cheese or milk        |
+| Onko sinulla kalaa           | Do you have (any) fich        |
+| Onko meillä tarpeeksi ruokaa | Do we have enough food        |
+| Onko hänellä vielä ketsuppia | Does he have any ketchup left |
+| Onko meillä vielä kalaa      | Does he have any fish left    |
+| Miksi tämä kana on oranssia  | Why is the chicken orange     |
+| Minulla on mehua             | I have juice                  |
+| Meillä on kalaa kotona       | We have fish at home          |
+| Meillä on taas samaa ruokaa  | We have the same food again   |
+| Heillä on litra maitoa       | They have a litre of milk     |
+
+** Section 1 Unit 14 Discuss Languages
+
+| turisti    | a tourist       |
+| insinööri  | engineer        |
+| professori | professor       |
+| muusikko   | musician        |
+| myös       | also too        |
+| vain       | only just       |
+| moni       | many            |
+| tai        | either or       |
+| ahkera     | hardworking     |
+| laiska     | lazy            |
+| vähän      | a little bit of |
+| sujuvaa    | fluent          |
+| älykäs     | intelligent     |
+
+
+Grammer
+| puhua   | to speak      |
+| puhun   | I speak       |
+| puhut   | you speak     |
+| puhuu   | he she speaks |
+| puhumme | we speak      |
+| puhutte | you speak     |
+| puhuvat | they speak    |
+
+| Suomea         | Finnish   |
+| afrikkalainen  | african   |
+| Viroa          | Estonian  |
+| ranskaa        | french    |
+| unkaria        | Hungarian |
+| espanjaa       | Spanish   |
+| kanadalainen   | Canadian  |
+| amerikkalainen | American  |
+
+Phrases
+| Tämä on koreaa             | this is Korean                         |
+| Tuo lause on suomea        | That sentence is Finnish               |
+| Puhutte koreaa             | You speak Korean                       |
+| Minä puhun Suomea          | I speak finnish                        |
+| Puhuuko hän suomea         | Is he speaking Finnish                 |
+| Puhutteko englantia        | do you speak english                   |
+| Puhutko sinä kiinaa        | do you speak chinese                   |
+| Puhumme vain vähän japania | We speak only a little bit of Japanese |
+
+** Section 1 Unit 15 Talk about chores
+
+koska, because
+että, that and
+
+tuoli, chair
+taulu, picture
+lamppu, lamp
+kello, a clock
+lattia, floor
+kattoa, roof ceiling
+hiki, sweat
+
+halpa, cheap
+kallis, expensive
+sotkuinen, messy
+siisti, tidy
+rikki, broken
+
+maalata, to paint
+korjata, to repair
+siivota, to clean
+tajuta, to realize
+grillata, to barbecue to grill
+tiskaan, doing the dishes
+
+grammer
+
+maalaan, I paint
+maalaat, you paint
+maalaa, he/she paints
+maalamme, we paint
+maalaavat, they paint
+
+siivoamme, we clean
+siivoaa, he she cleans
+siivoat, you clean
+siivoavat, they clean
+
+korjaan, I repair
+kojaat, you repair
+kojaatte, you repair
+kojaavat, they repair
+
+tiskaan, I am doing the dishes
+tiskaat, You are doing the dishes
+tiskaa, he/she is doing the dishes
+tiskaamme, we are doing the dishes
+tiskaavat, they are doing the dishes
+
+phrases
+Siivoan taloa, cleaning the house
+Äiti korjaa vanhaa autoa, mother is fixing the old car
+Äiti malaa taloa, mothe is painting the house
+Siivoako hän samaa asuntoa, Is he cleaning the same apartment
+Siivoatko lattia, Are you cleaning the floor
+Korjaako insinööri lamppua, Is the engineer fixing the lamp
+Minulla on hiki, I am sweating
+Poika tajuatko sinä että tämä huone on sotkuinen, Boy do yo realize that the room is messy
+Sivoaako hän piha - Sivoaa, Is he cleaning the yard - Yes he is
+
+** Section 1 Unit 16 Say what can you do
+
+Hys, ssh hush
+
+kuinka, How
+joka, who which every
+
+sekä, both
+
+laulaja, a singer
+tanssija, a dancer
+
+vakava, serious
+viisas, wise
+lahjakas, talanted
+hiljaa, quiet
+
+
+lukea, to read
+kirjoitta, to write
+ratsastaa, to ride
+hiljaa, be quiet
+
+Osaan, I can know
+Osaa, he she can
+Osaatte, you can
+Osaavat, they can
+
+Osaako hän piirtää, Can he draw
+Hän osaa maalata hyvin, She can paint well
+Pöllönen puhuu sekä tanskaa että norjaa
+Kuinka moni suomalainen osaa ruotsia, How many Finns know swedish
+
+** Section 2 Unit 1 Make Requests
+
+Mitä, What
+
+Nam, yum
+
+tee, tea
+sokeri, sugar
+kerma, cream
+glögi, glogi mulled wine
+pirtelö, milkshake
+leipä, bread
+kuppi, cup
+kakku, cake
+pala, a piece
+
+pehmeä, soft
+kova, hard
+tumma, dark
+jotain, something
+lisää, more
+
+haluaa, to want
+syödä, to eat
+juoda, to drink
+
+syötävää, edible to eat
+juotavaa, drinkable to drink
+
+Se on liian kuumaa, It is too hot
+Vain vähän kermaa, kiitos, Just a bit of cream please
+kermaa, some cream
+Yksi kahvi kiitos Haluatko maitoa vai kermaa, One coffee please Do you want some milk or cream
+Vesi on kylmää, The water is cold
+Tämä vihreä jäätelo on kylmää mutta hyvää, This green icecream is cold but good
+Haluan syödä pullaa, I want to eat pulla
+Paljon vai vähän, A lot or a little
+Kuka halua lisää kakkua, Who wants more cake
+lisää juotavaa, something more to drink
+Haluatko lisää juotavaa, Do you want something more to drink
+Leipä on pehmeää, The bread is soft
+Mitä hän haluaa? Kahviako?, What does he want? Coffee?
+Haluan lisää pehmeää jäätelöä, I want more soft isecream
+Onko teilla jotain kylmää juotavaa, Do you have something cold to drink
+Haluatko jotain syötävää, Do you want something to eat
+
+
+* From Start to Finnish
+
+*** Vowel balance
+
+1  2  3
+-------
+ä  e  a
+ö  i  o
+y     u
+
+1 does not mix with 3
+2 mixes with both
+the vowels in the stem determine the vowels in the ending
+compound words take all vowels, but the last word determinse the ending
+
+auto-ssa, in a car
+keittiö+ssä, in a kitchen
+puhut+ko, do you speak
+kysyt+kö, do you ask
+
+*** Cases
+
+- instead of propositions which signify what is going on cases use suffixes
+- his table, on the table, at the table, the table, by the table, under the table, for the table, from the table
+- all these will become separate words
+- 4 word categories use cases, nouns, adjectives, pronouns, numerals
+- suffixes are added to the word stem, sometimes the whole word is the stem, sometimes, the core word spelling changes
+
+koira,        the dog
+koira-ni,     my dog
+koira-si,     your dog
+koira-lla on, the dog has
+koira-lle,    to the dog
+
+*** Plural
+
+Nominatiivi, the basic form of the word
+Nominatiive Plural, add a -t
+
+but there are some deviation rules, like,
+
+- 1. the KPT Changes, if the last tavu, contains the letter, k/p/t, or kk/pp/tt, change to,
+- k -> remove k
+- p -> v
+- t -> d
+- kk -> k
+- pp -> p
+- tt -> t
+
+Normal, Koira -> Koira-t
+k,      Sika -> Sia-t
+p,      Lupa -> Lu-v-a-t
+t,      Äiti -> Äi-d-i-t
+kk,     Takki -> Tak-i-t
+pp,     Noppa -> Nop-a-t
+tt,     Kettu -> Ket-u-t
+
+- 2. words that end in -nen
+- nen -> se
+
+Sininen -> Sini-se-t
+Punainen -> Punai-se-t
+Nainen -> Nai-se-t
+Perhonen -> Perho-se-t
+
+- 3. words that end in -i, it deals with native vs loan words (sound like english or german or swedish)
+
+loan word -> just add -t
+native word -> i becomes e than add -t
+
+Banaani -> Banaani-t
+Posti -> Posti-t
+Paperi -> Paperi-t
+
+Nuori -> Nuor-e-t
+Meri -> Mer-e-t
+Tuli -> Tul-e-t
+
+Siipi -> Siivet
+
+- 4. word end in an -e, add an extra one before adding -t
+
+Huone -> Huoneet
+Perhe -> Perheet
+Kirje -> Kirjeet
+
+- 5. native word ending in -si, change to -de
+
+Vesi -> Ve-de-t
+Vuosi -> Vuo-de-t
+Uusi -> Uu-de-t
+Käsi -> Kä-de-t
+
+*** Verbs Type I
+
+- the most common, they end in two vowels, aa, ee, ii, oo, uu, yy, ää, öö
+
+sanoa
+ajaa
+asua
+kysyä
+rakastaa
+katsoa
+
+
+* Uusi kielemme
+
