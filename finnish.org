@@ -650,22 +650,22 @@ adjectives
 | syötävää | edible to eat      |
 | juotavaa | drinkable to drink |
 
-| Se on liian kuumaa                           | It is too hot                                    |                            |
-| Vain vähän kermaa                            | kiitos                                           | Just a bit of cream please |
-| kermaa                                       | some cream                                       |                            |
-| Yksi kahvi kiitos Haluatko maitoa vai kermaa | One coffee please Do you want some milk or cream |                            |
-| Vesi on kylmää                               | The water is cold                                |                            |
-| Tämä vihreä jäätelo on kylmää mutta hyvää    | This green icecream is cold but good             |                            |
-| Haluan syödä pullaa                          | I want to eat pulla                              |                            |
-| Paljon vai vähän                             | A lot or a little                                |                            |
-| Kuka halua lisää kakkua                      | Who wants more cake                              |                            |
-| lisää juotavaa                               | something more to drink                          |                            |
-| Haluatko lisää juotavaa                      | Do you want something more to drink              |                            |
-| Leipä on pehmeää                             | The bread is soft                                |                            |
-| Mitä hän haluaa? Kahviako?                   | What does he want? Coffee?                       |                            |
-| Haluan lisää pehmeää jäätelöä                | I want more soft isecream                        |                            |
-| Onko teilla jotain kylmää juotavaa           | Do you have something cold to drink              |                            |
-| Haluatko jotain syötävää                     | Do you want something to eat                     |                            |
+| Se on liian kuumaa                           | It is too hot                                    |
+| Vain vähän kermaa kiitos                     | Just a bit of cream please                       |
+| kermaa                                       | some cream                                       |
+| Yksi kahvi kiitos Haluatko maitoa vai kermaa | One coffee please Do you want some milk or cream |
+| Vesi on kylmää                               | The water is cold                                |
+| Tämä vihreä jäätelo on kylmää mutta hyvää    | This green icecream is cold but good             |
+| Haluan syödä pullaa                          | I want to eat pulla                              |
+| Paljon vai vähän                             | A lot or a little                                |
+| Kuka halua lisää kakkua                      | Who wants more cake                              |
+| lisää juotavaa                               | something more to drink                          |
+| Haluatko lisää juotavaa                      | Do you want something more to drink              |
+| Leipä on pehmeää                             | The bread is soft                                |
+| Mitä hän haluaa? Kahviako?                   | What does he want? Coffee?                       |
+| Haluan lisää pehmeää jäätelöä                | I want more soft isecream                        |
+| Onko teilla jotain kylmää juotavaa           | Do you have something cold to drink              |
+| Haluatko jotain syötävää                     | Do you want something to eat                     |
 
 
 * From Start to Finnish
@@ -676,7 +676,7 @@ adjectives
 |---|---|---|
 | ä | e | a |
 | ö | i | o |
-| y | u |   |
+| y |   | u |
 
 - 1 does not mix with 3
 - 2 mixes with both
