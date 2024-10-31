@@ -4,9 +4,25 @@ This file uses org mode, it makes more sense if you are an Emacs user.
 
 * Resources
 
-- Complete Finish, Leney Terttu, (full language course)
-- From Start to Finnish, White Leila, (begginer, best grammer and structure)
-- Uusi Kielimme, (lesson plan, vocabulary, grammer)
+*** Books
+
+- Reviews of books,
+  https://uusikielemme.fi/language-levels/textbooks/finnish-language-learning-book-review-list-oppikirjat
+
+- From Start to Finnish, White Leila, (0-A2)
+  https://finnlectura.fi/oppimateriaalit/suomi-toisena-kielena/from-start-to-finnish/
+
+- Sun Suomi, (0-A2.2)
+  https://finnlectura.fi/oppimateriaalit/suomi-toisena-kielena/sun-suomi/
+
+- Kato Hei, (pujekieli, all in finnish, A1.3-A2)
+  https://otava.kauppakv.fi/sivu/tuote/9789511355779
+
+- Complete Finish, Leney Terttu, (full language course, 0-B1)
+
+*** Web
+
+- Uusi Kielemme, (lesson plan, vocabulary, grammer)
 - Yle Kielikoulu, (listening, video, vocabulary)
 - Duolingo,
 
