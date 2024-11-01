@@ -22,9 +22,14 @@ This file uses org mode, it makes more sense if you are an Emacs user.
 
 *** Web
 
+- Study Plan,
+- https://uusikielemme.fi/finnish-lessons-and-levels
+
 - Uusi Kielemme, (lesson plan, vocabulary, grammer)
 - Yle Kielikoulu, (listening, video, vocabulary)
 - Duolingo,
+- https://finkingcap.com/
+- https://gimara.fi/
 
 * Duolingo
 
@@ -62,46 +67,50 @@ kiriakieli, puhekieli
 | he   | ne | they   | heidän | niiden | theirs  |
 
 
-| Words      |                  |
-|------------+------------------|
-| кuka       | Who              |
-| missä      | Where in which   |
-| millainen  | What kind of     |
-| miksi      | Why              |
-| mikä       | What which       |
-| mutta      | but              |
-| tämä       | this             |
-| tuo        | that             |
-| nämä       | these            |
-| nuo        | those            |
-| täällä     | here             |
-| tuolla     | there            |
-| tässä      | right here       |
-| tuossa     | right there      |
-| niin       | such             |
-| ja         | and              |
-| vai        | or               |
-| Kyllä      | yes formal       |
-| Joo        | yes yeah         |
-| Ei         | no               |
-| Terve      | hello            |
-| Tervetuloa | welcome          |
-| Moi        | Hi               |
-| Hei        | Hi               |
-| Moikka     | bye              |
-| Heippa     | bye              |
-| Näkemiin   | goodbye          |
-| Nähdään    | see you          |
-| anteeksi   | sorry excuse me  |
-| kiitos     | thank you please |
-| kiiti      | thanks           |
-| kippis     | cheers           |
-| jee        | yay              |
-| au         | ouch             |
-| hyi        | yuck ew eww      |
-| No         | well             |
-| herra      | Mr. gentleman    |
-| rouva      | Ms. Mrs.         |
+| Words      |                                 |
+|------------+---------------------------------|
+| кuka       | Who                             |
+| missä      | Where in which                  |
+| millainen  | What kind of                    |
+| miksi      | Why                             |
+| mikä       | What which                      |
+| mitä       | What                            |
+| kuinka     | How                             |
+| mutta      | but                             |
+| tämä       | this                            |
+| tuo        | that                            |
+| nämä       | these                           |
+| nuo        | those                           |
+| täällä     | here                            |
+| tuolla     | there                           |
+| tässä      | right here                      |
+| tuossa     | right there                     |
+| niin       | such                            |
+| ja         | and                             |
+| vai        | or exclusive questions only     |
+| tai        | or any statements and questions |
+| Kyllä      | yes formal                      |
+| Joo        | yes yeah                        |
+| Ei         | no                              |
+| Terve      | hello                           |
+| Tervetuloa | welcome                         |
+| Moi        | Hi                              |
+| Hei        | Hi                              |
+| Moikka     | bye                             |
+| Heippa     | bye                             |
+| Moi kaikki | Hi everyone                     |
+| Näkemiin   | goodbye                         |
+| Nähdään    | see you                         |
+| anteeksi   | sorry excuse me                 |
+| kiitos     | thank you please                |
+| kiiti      | thanks                          |
+| kippis     | cheers                          |
+| jee        | yay                             |
+| au         | ouch                            |
+| hyi        | yuck ew eww                     |
+| No         | well                            |
+| herra      | Mr. gentleman                   |
+| rouva      | Ms. Mrs.                        |
 
 
 | Nouns       |                                       |
@@ -500,19 +509,19 @@ Pharases
 
 ** Section 1 Unit 14 Discuss Languages
 
-| turisti    | a tourist       |
-| insinööri  | engineer        |
-| professori | professor       |
-| muusikko   | musician        |
-| myös       | also too        |
-| vain       | only just       |
-| moni       | many            |
-| tai        | either or       |
-| ahkera     | hardworking     |
-| laiska     | lazy            |
-| vähän      | a little bit of |
-| sujuvaa    | fluent          |
-| älykäs     | intelligent     |
+| turisti    | a tourist                       |
+| insinööri  | engineer                        |
+| professori | professor                       |
+| muusikko   | musician                        |
+| myös       | also too                        |
+| vain       | only just                       |
+| moni       | many                            |
+| tai        | or any statements and questions |
+| ahkera     | hardworking                     |
+| laiska     | lazy                            |
+| vähän      | a little bit of                 |
+| sujuvaa    | fluent                          |
+| älykäs     | intelligent                     |
 
 
 Grammer
@@ -661,6 +670,7 @@ adjectives
 | jotain | something |
 | lisää  | more      |
 
+verbs
 | haluaa | to want  |
 | syödä  | to eat   |
 | juoda  | to drink |
@@ -684,6 +694,8 @@ adjectives
 | Haluan lisää pehmeää jäätelöä                | I want more soft isecream                        |
 | Onko teilla jotain kylmää juotavaa           | Do you have something cold to drink              |
 | Haluatko jotain syötävää                     | Do you want something to eat                     |
+| Minä haluan jotain jotavaa                   | I want something to drink                        |
+| He haluavat syöda mammia                     | They want to eat mämmi                           |
 
 
 * From Start to Finnish
