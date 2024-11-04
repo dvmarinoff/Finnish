@@ -28,6 +28,7 @@ This file uses org mode, it makes more sense if you are an Emacs user.
 - Uusi Kielemme, (lesson plan, vocabulary, grammer)
 - Yle Kielikoulu, (listening, video, vocabulary)
 - Duolingo,
+- https://www.studyfinnish.com/vocabulary/verbs/, (verb conjugations)
 - https://finkingcap.com/
 - https://gimara.fi/
 
@@ -631,15 +632,26 @@ adjectives
 | hiljaa   | quiet    |
 
 verbs
-| lukea     | to read  |
-| kirjoitta | to write |
-| ratsastaa | to ride  |
-| hiljaa    | be quiet |
+| lukea     | to read         |
+| kirjoitta | to write        |
+| ratsastaa | to ride         |
+| hiljaa    | be quiet        |
+| osata     | to know a skill |
+| tietää    | to know a fact  |
 
-| Osaan   | I can know |
-| Osaa    | he she can |
-| Osaatte | you can    |
-| Osaavat | they can   |
+| Osaan   | I can know   |
+| Osaat   | You can know |
+| Osaa    | he she can   |
+| Osaamme | We she can   |
+| Osaatte | you can      |
+| Osaavat | they can     |
+
+| tiedän   | I know       |
+| tiedät   | You know     |
+| tiedää   | he she knows |
+| tiedämme | We know      |
+| tiedätte | You know     |
+| tiedävät | They know    |
 
 phrases
 | Osaako hän piirtää                      | Can he draw                               |
@@ -696,6 +708,74 @@ verbs
 | Haluatko jotain syötävää                     | Do you want something to eat                     |
 | Minä haluan jotain jotavaa                   | I want something to drink                        |
 | He haluavat syöda mammia                     | They want to eat mämmi                           |
+
+** Section 2 Unit 2
+
+muu, moo
+röh, oink
+huhuu, hoot owl
+kot kot, kot chicken
+mur, growl
+
+Ketkä, who
+ylös, up
+eri, another
+
+kana, chicken
+lehmä, cow
+lintu, bird
+pöllö, owl
+karhu, bear
+siili, hedgehog
+orava, squirrel
+
+likainen, dirty
+painava, heavy
+nouseva, rising ascending climbing
+pulassa, in trouble
+
+sanoo, say
+etsiä, search
+yrittää, try attempt
+murista, to growl
+puraista, bite
+haiseva, sticking smelling
+potkaista, to kick
+juosta, run
+
+etsimme, we are searching
+etsitte, you are searching
+
+pesen, I wash
+pesee, he she washes
+pesette, you are washing
+
+yrittävät, they are trying
+
+puraisevat,
+
+potkaisee, he she kicks
+
+juoksen, I run
+juoksee, he she runs
+juoksemme, we are running
+
+Lintu laulaa, The bird is singing
+Lehmä sanoo muu, The cow says moo
+Etsimme koiraa. Ehkä se on jo kotona, We are searching for the dog. Maybe it is already at home
+Etsittekö te isoa koiraa? Se on tuolla, Are you searching for a big dog? It is over there
+He etsivät pupua. Ehkä pupu on tuolla, They are searching for a bunny. Maybe the bunny is over there
+Pesettekö te koiraa?, Are you washing the dog
+Musti on taas likaninen, Musti is dirty again
+Ketkä etsivät lintua?, Who are the people lokking for the bird
+Ketkä etsivät mustaa ponia? Me, Who are the people loiking for a black poni? We are
+söpöt puput, cute bunnies
+Söpöt koirat yristtävät murista, The cute dogs are trying to growl
+Koirat puraisevat sipulia ja itket, The dogs bite the onion and cry
+Ponit nousevat ylös, The ponies get up
+Me nousemme nopeasti ylös koska karhut ovat lähellä, We get up quickly because the bears are near
+nousta ylös, to get up
+
 
 
 * From Start to Finnish
