@@ -34,6 +34,7 @@ This file uses org mode, it makes more sense if you are an Emacs user.
 
 * Duolingo
 
+Olla Verbi
         puhekieli
 | minä | mä | I      |   |
 | sinä | sä | you    |   |
@@ -356,17 +357,24 @@ kiriakieli, puhekieli
 | tarpeeksi   | enough                   |
 | liikaa      | too much                 |
 
-
-| Verbs   |          |
-|---------+----------|
-| istua   | to sit   |
-| seisoo  | to stand |
-| naurat  | to laugh |
-| itken   | to cry   |
-| tanssia | to dance |
-| laulaa  | to sing  |
-| kasvaa  | to grow  |
-| oma     | own      |
+verbs
+| Verbs   |           |
+|---------+-----------|
+| istua   | to sit    |
+| seisoo  | to stand  |
+| nauraa  | to laugh  |
+| itken   | to cry    |
+| tanssia | to dance  |
+| laulaa  | to sing   |
+| kasvaa  | to grow   |
+| oma     | own       |
+| asua    | to live   |
+| kysyä   | to ask    |
+| olla    | to be     |
+| mennä   | to go     |
+| etsiä   | to search |
+| katsoa  | to look   |
+| sanoa   | to say    |
 
 | numbers |     |
 |---------+-----|
@@ -709,39 +717,48 @@ verbs
 | Minä haluan jotain jotavaa                   | I want something to drink                        |
 | He haluavat syöda mammia                     | They want to eat mämmi                           |
 
-** Section 2 Unit 2
+** Section 2 Unit 2 Form Plural
 
-muu, moo
-röh, oink
-huhuu, hoot owl
-kot kot, kot chicken
-mur, growl
+words
+| muu     | moo         |
+| röh     | oink        |
+| huhuu   | hoot owl    |
+| kot kot | kot chicken |
+| mur     | growl       |
+| hau hau | woof woof   |
+| ihahaa  | neigh       |
 
-Ketkä, who
-ylös, up
-eri, another
+| Ketkä   | who         |
+| eri     | another     |
 
-kana, chicken
-lehmä, cow
-lintu, bird
-pöllö, owl
-karhu, bear
-siili, hedgehog
-orava, squirrel
+nouns
+| kana  | chicken  |
+| lehmä | cow      |
+| lintu | bird     |
+| pöllö | owl      |
+| karhu | bear     |
+| siili | hedgehog |
+| orava | squirrel |
+| muna  | egg      |
 
-likainen, dirty
-painava, heavy
-nouseva, rising ascending climbing
-pulassa, in trouble
+adjectives
+| likainen | dirty            |
+| painava  | heavy            |
+| nouseva  | rising ascending |
+| ylös     | up               |
+| pulassa  | in trouble       |
 
-sanoo, say
-etsiä, search
-yrittää, try attempt
-murista, to growl
-puraista, bite
-haiseva, sticking smelling
-potkaista, to kick
-juosta, run
+verbs
+| sanoo     | say               |
+| etsiä     | search            |
+| yrittää   | try attempt       |
+| murista   | to growl          |
+| puraista  | bite              |
+| haiseva   | sticking smelling |
+| potkaista | to kick           |
+| juosta    | run               |
+| pestä     | to wash           |
+| nousta    | to rise to go up  |
 
 etsimme, we are searching
 etsitte, you are searching
@@ -749,6 +766,7 @@ etsitte, you are searching
 pesen, I wash
 pesee, he she washes
 pesette, you are washing
+pesevät, They are washing
 
 yrittävät, they are trying
 
@@ -760,21 +778,63 @@ juoksen, I run
 juoksee, he she runs
 juoksemme, we are running
 
-Lintu laulaa, The bird is singing
-Lehmä sanoo muu, The cow says moo
-Etsimme koiraa. Ehkä se on jo kotona, We are searching for the dog. Maybe it is already at home
-Etsittekö te isoa koiraa? Se on tuolla, Are you searching for a big dog? It is over there
-He etsivät pupua. Ehkä pupu on tuolla, They are searching for a bunny. Maybe the bunny is over there
-Pesettekö te koiraa?, Are you washing the dog
-Musti on taas likaninen, Musti is dirty again
-Ketkä etsivät lintua?, Who are the people lokking for the bird
-Ketkä etsivät mustaa ponia? Me, Who are the people loiking for a black poni? We are
-söpöt puput, cute bunnies
-Söpöt koirat yristtävät murista, The cute dogs are trying to growl
-Koirat puraisevat sipulia ja itket, The dogs bite the onion and cry
-Ponit nousevat ylös, The ponies get up
-Me nousemme nopeasti ylös koska karhut ovat lähellä, We get up quickly because the bears are near
-nousta ylös, to get up
+| Lintu laulaa                                        | The bird is singing                                           |
+| Lehmä sanoo muu                                     | The cow says moo                                              |
+| Etsimme koiraa. Ehkä se on jo kotona                | We are searching for the dog. Maybe it is already at home     |
+| Etsittekö te isoa koiraa? Se on tuolla              | Are you searching for a big dog? It is over there             |
+| He etsivät pupua. Ehkä pupu on tuolla               | They are searching for a bunny. Maybe the bunny is over there |
+| Pesettekö te koiraa?                                | Are you washing the dog                                       |
+| Musti on taas likaninen                             | Musti is dirty again                                          |
+| Ketkä etsivät lintua?                               | Who are the people lokking for the bird                       |
+| Ketkä etsivät mustaa ponia? Me                      | Who are the people loiking for a black poni? We are           |
+| söpöt puput                                         | cute bunnies                                                  |
+| Söpöt koirat yristtävät murista                     | The cute dogs are trying to growl                             |
+| Koirat puraisevat sipulia ja itket                  | The dogs bite the onion and cry                               |
+| Ponit nousevat ylös                                 | The ponies get up                                             |
+| Me nousemme nopeasti ylös koska karhut ovat lähellä | We get up quickly because the bears are near                  |
+| nousta ylös                                         | to get up                                                     |
+| Söpöt koirat yrittävät murista                      | The cute dogs are trying to growl                             |
+| Painavat karhut murisevat                           | The heavy bears are growling                                  |
+Hän yrittää nousta ylös mutta kissa on tosi painava,
+
+** Section 2 Unit 3 Discuss where people live
+
+paikka, place
+nykyään, nowadays
+aika, time
+
+enemmän, more
+
+asua, to live reside
+käydä, to visit
+viettä, to spend
+
+asun
+asut
+asuu
+asumme
+asuvat
+
+Suomessa, in Finland
+Norjiassa, in Norway
+Ruotsissa, in Sweden
+Tanskassa, in Denmark
+Sveitsissa, in Switzerlan
+Italiassa, in Italy
+Berliinissa, in Berlin
+Lontoo, London
+Praha, Prague
+Puola, Poland
+Rooma, Rome
+
+Oslo on Norjiassa, Oslo is in Norway
+Otsi on Ruotsissa, Otso is in Sweden
+Asuuko Elsa Norjassa?, Does Elsa live in Norway?
+Missä sinä asut?, Where do you live
+Meillä on hauskaa Virossa, We are having fun in Estonia
+Minä haluan käydä Unkarissa, I want to visit Hungary
+Asutko viela Berliniissa, Do you still live in Berlin
+Asutko tässä maasaa, Do yo live in this country
 
 
 
