@@ -845,17 +845,25 @@ Hän yrittää nousta ylös mutta kissa on tosi painava,
 
 ** Section 2 Unit 4 Use numbers
 
-| sillä   | it that |
-| kenellä | who     |
+| sillä   | it that   |
+| kenellä | who       |
+| montako | how many  |
+| jolla   | which has |
+| ainakin | at least |
 
 | eläin    | animal           |
 | pentu    | puppy cub kitten |
 | hamsteri | a hamster        |
+| sika     | pig              |
+| hevonen  | horse            |
 
-| ainakin | at least |
-| villi   | wild     |
-| nätti   | pretty   |
-| monta   | many     |
+| villi        | wild     |
+| nätti        | pretty   |
+| monta        | many     |
+| täydellinen  | perfect  |
+| ystävällinen | friedly  |
+| pörröinen    | fluffy   |
+| vihaista     | angry    |
 
 | kaksi     | two   |
 | kolme     | three |
@@ -864,7 +872,12 @@ Hän yrittää nousta ylös mutta kissa on tosi painava,
 | kuusi     | six   |
 | seitsemän | seven |
 | kahdeksan | eight |
+| yhdeksän  | nine  |
+| kymmenen  | ten   |
 
+| omistan   | I own  |
+| omistaa   |        |
+| omistamme | we own |
 
 | Onko sillä tääs nälkä                            | Is it hungry again                        |
 | Sillä on kolme pentua                            | It has three puppies                      |
@@ -875,7 +888,82 @@ Hän yrittää nousta ylös mutta kissa on tosi painava,
 | Meillä on kaksi suomalaista koiraa               | We have two finnish dogs                  |
 | Kaisa yrittäa maalata valkoista kissaa           | Kaisa is trying to paint a white cat      |
 | Kaksi surullista suomalaista etsii mustaa kissaa | Two sad Finns are looking for a black cat |
+| yhdeksän sinistä lintua                          | nine blue birds                           |
+| Me omistamme seitsemäm lehmää                    | We own ten cows                           |
+| Montako pentua sillä on                          | How many kittens does it have             |
+| Montako sikaa te omistatte                       | How many pigs do you own                  |
+| Pöllölä yrittää piirtää hevosta                  | Pöllölä is trying to draw a horse         |
+| Minulla on ystävä jolla on kolme kissaa          | I have a frien who has three cats         |
+| Heillä on kissa jolla on monta lelua             | They have a cat which has many toys       |
+| Kenellä on lisää ruokaa? Sillä on nälkä          | Who has more food? It is hungry           |
+| Montako pupua sinulla on                         | How many bunnies do you have              |
 
+
+Tämä koira on tosi ystävallinen mutta melko painava
+
+What is the difference between?
+- surullista koiraa
+- surullinen koira
+- valkoista kissaa
+- valkoinen kissa
+- moni monta
+- hevonen hevosta
+- suomalainen koira
+- suomalista koiraa
+- mustaa koiraa
+- valkoista koiraa
+
+** Section 2 Unit 5 Form negative sentences
+
+vaan, but not do
+koskaan, ever never
+vaikka, although
+kaikki, all every
+
+hindiä, Hindi
+australialainen, australian
+Kanada, Canada
+Argentiina, Argentina
+
+Skandinaviassa, in Scandinavia
+Argentiinassa, in Argentina
+
+
+enää, anymore
+koti-ikävä, homesick
+
+eksyä, get lost be lost
+tajua, realize
+
+Minä en
+Sinä et
+Hän  ei
+Me   emme
+Te   ette
+He   eivät
+
+En osaa puhua
+
+sataa lunta, it's raining snow it's snowing
+
+Hän ei puhu suomea, She does not speak finnish
+Sinä et puhu norjaa, You do not speak norwegian
+Sinä et ole kotona, You are not home
+Minä en ole kotona, I am not home
+Me emme puhu kiina, We do not speak chinese
+Me emme asu Sveitsissä, We do not live in Switzerland
+Te ette puhu koreaa, You do not speak korean
+He eivät puhu japania, They do not speak japanese
+He eivät halua eksyä, They do not want to get lost
+Eivätko he puhu ruotsia, Do they not speak swedish
+Ettekö te asu enää Suomessa, Do you not live in Finland anymore
+Meillä on koti-ikävä, We are homesick
+En osaa puhua norjaa, I cannot speak norwegian
+En olle Italliassa vaan Puolassa, I am not in Italy but in Poland
+Suomi en ole Scandinaviassa, Finland is not in Scandinavia
+Emme osaa unkaria, vaikka asumme Unkariassa, We do not know Hungaria, even though we line in Hungary
+
+Hänellä ei ole kaikki muumit laaksossa
 
 * From Start to Finnish
 
