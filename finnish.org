@@ -915,55 +915,138 @@ What is the difference between?
 
 ** Section 2 Unit 5 Form negative sentences
 
-vaan, but not do
-koskaan, ever never
-vaikka, although
-kaikki, all every
+| vaan    | but not do |
+| koskaan | ever never |
+| vaikka  | although   |
+| kaikki  | all every  |
 
-hindiä, Hindi
-australialainen, australian
-Kanada, Canada
-Argentiina, Argentina
+| hindiä          | Hindi          |
+| australialainen | australian     |
+| Kanada          | Canada         |
+| Argentiina      | Argentina      |
+|                 |                |
+| Skandinaviassa  | in Scandinavia |
+| Argentiinassa   | in Argentina   |
 
-Skandinaviassa, in Scandinavia
-Argentiinassa, in Argentina
+
+| enää       | anymore          |
+| koti-ikävä | homesick         |
+| eksyä      | get lost be lost |
+| tajua      | realize          |
+
+| Minä | en    |
+| Sinä | et    |
+| Hän  | ei    |
+| Me   | emme  |
+| Te   | ette  |
+| He   | eivät |
 
 
-enää, anymore
-koti-ikävä, homesick
+| En osaa puhua                              | I can not speak                                        |
+| sataa lunta                                | it's raining snow it's snowing                         |
+| Hän ei puhu suomea                         | She does not speak finnish                             |
+| Sinä et puhu norjaa                        | You do not speak norwegian                             |
+| Sinä et ole kotona                         | You are not home                                       |
+| Minä en ole kotona                         | I am not home                                          |
+| Me emme puhu kiina                         | We do not speak chinese                                |
+| Me emme asu Sveitsissä                     | We do not live in Switzerland                          |
+| Te ette puhu koreaa                        | You do not speak korean                                |
+| He eivät puhu japania                      | They do not speak japanese                             |
+| He eivät halua eksyä                       | They do not want to get lost                           |
+| Eivätko he puhu ruotsia                    | Do they not speak swedish                              |
+| Ettekö te asu enää Suomessa                | Do you not live in Finland anymore                     |
+| Meillä on koti-ikävä                       | We are homesick                                        |
+| En osaa puhua norjaa                       | I cannot speak norwegian                               |
+| En olle Italliassa vaan Puolassa           | I am not in Italy but in Poland                        |
+| Suomi en ole Scandinaviassa                | Finland is not in Scandinavia                          |
+| Emme osaa unkaria vaikka asumme Unkariassa | We do not know Hungaria even though we line in Hungary |
 
-eksyä, get lost be lost
-tajua, realize
+** Section 2, Unit 6 Talk about nature
 
-Minä en
-Sinä et
-Hän  ei
-Me   emme
-Te   ette
-He   eivät
+| Australia    | Australia    |
+| Egypti       | Egypt        |
+| Egyptissä    | in Egypt     |
+| Australiassa | in Australia |
 
-En osaa puhua
+| krokotiili | crockadile |
+| kameli     | camel      |
+| kamelit    | camels     |
+| sokeri     | sugar      |
+| koalat     | koalas     |
+| kenguru    | kangaroo   |
+| kengurut   | kangaroos  |
+| ilves      | lynx       |
+| ahma       | wolverine  |
+| ahmat      | wolverines |
 
-sataa lunta, it's raining snow it's snowing
+| puu      | tree          |
+| puut     | trees         |
+| metsä    | forest        |
+| kasvi    | plant         |
+| kasvit   | plants        |
+| kukka    | flower        |
+| puro     | a stream      |
+| poro     | raindeer      |
+| marja    | berry         |
+| jää      | ice           |
+| järvi    | lake          |
 
-Hän ei puhu suomea, She does not speak finnish
-Sinä et puhu norjaa, You do not speak norwegian
-Sinä et ole kotona, You are not home
-Minä en ole kotona, I am not home
-Me emme puhu kiina, We do not speak chinese
-Me emme asu Sveitsissä, We do not live in Switzerland
-Te ette puhu koreaa, You do not speak korean
-He eivät puhu japania, They do not speak japanese
-He eivät halua eksyä, They do not want to get lost
-Eivätko he puhu ruotsia, Do they not speak swedish
-Ettekö te asu enää Suomessa, Do you not live in Finland anymore
-Meillä on koti-ikävä, We are homesick
-En osaa puhua norjaa, I cannot speak norwegian
-En olle Italliassa vaan Puolassa, I am not in Italy but in Poland
-Suomi en ole Scandinaviassa, Finland is not in Scandinavia
-Emme osaa unkaria, vaikka asumme Unkariassa, We do not know Hungaria, even though we line in Hungary
+| jäässä      | frozen           |
+| harmaa      | gray             |
+| koko        | whole entire     |
+| pois        | away             |
+| keskellä    | in the middle of |
+| yleensä     | usually          |
+| myrkyllinen | poisonous        |
 
-Hänellä ei ole kaikki muumit laaksossa
+| vanhassa | in the old      |
+| purossa  | in the stream   |
+| marjassa | picking berries |
+| kalassa  | fishing         |
+| puussa   | in this tree    |
+| metsässä | in the forest   |
+| maassa   | on the ground   |
+
+| hymyillä  | to smile             |
+| haistella | to sniff             |
+| kuulla    | to hear              |
+| piilo     | to hide hiding place |
+| piilossa  | hiding hiding place  |
+
+hymyilen, I smile
+
+kävelen, I walk
+kävelevät, are walking
+
+haistelle, It is sniffing
+
+kuulen, I hear
+kuulee, He She hears
+
+Missä kamelit elävät, Where do camels live
+Karhut kävelevät vanhassa metsässä, the bears are walking in a old forest
+Nuo kasvit kasvavat vain Suomessa, Those plants grow only in Finland
+Isot puut kasvävät vielä, The big trees are still growing
+Ilves elää isossa vanhassa metsässä, The lynx lives in the big old forest
+He ovat mariassa, They are picking berries
+Ne elevät kylmässä Suomessa, They live in cold Finland
+Kylmät porot ovat jäässä, The cold streams are frozen
+Ne kävelevät pois, They walk away
+Se on yleensä jo jäässä, It is usually frozen
+
+
+
+* Puhekieli
+
+numbers:
+yy, kaa, koo, nee, vii, kuu, see
+1,  2  , 3  , 4  , 5  , 6  , 7
+
+Hänellä ei ole kaikki muumit laaksossa, He does not have all the moomins in the valley, He is crazy
+Nostaa kissa pöydälle, lift the cat on the, table adress the elephant in the room
+Ne on kissanristiäiset, it's a cat christening, this event is not worth going
+Helppo nakki, easy sausage, this will be easy
+
 
 * From Start to Finnish
 
