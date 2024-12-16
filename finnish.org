@@ -1013,26 +1013,32 @@ What is the difference between?
 | piilo     | to hide hiding place |
 | piilossa  | hiding hiding place  |
 
-hymyilen, I smile
+| hymyilen  | I smile        |
+|           |                |
+| kävelen   | I walk         |
+| kävelevät | are walking    |
+|           |                |
+| haistelle | It is sniffing |
+| haistelet | you sniff      |
+| haistelee | he she sniffs  |
+|           |                |
+| kuulen    | I hear         |
+| kuulee    | He She hears   |
 
-kävelen, I walk
-kävelevät, are walking
-
-haistelle, It is sniffing
-
-kuulen, I hear
-kuulee, He She hears
-
-Missä kamelit elävät, Where do camels live
-Karhut kävelevät vanhassa metsässä, the bears are walking in a old forest
-Nuo kasvit kasvavat vain Suomessa, Those plants grow only in Finland
-Isot puut kasvävät vielä, The big trees are still growing
-Ilves elää isossa vanhassa metsässä, The lynx lives in the big old forest
-He ovat mariassa, They are picking berries
-Ne elevät kylmässä Suomessa, They live in cold Finland
-Kylmät porot ovat jäässä, The cold streams are frozen
-Ne kävelevät pois, They walk away
-Se on yleensä jo jäässä, It is usually frozen
+| Missä kamelit elävät                | Where do camels live                    |
+| Karhut kävelevät vanhassa metsässä  | the bears are walking in a old forest   |
+| Nuo kasvit kasvavat vain Suomessa   | Those plants grow only in Finland       |
+| Isot puut kasvävät vielä            | The big trees are still growing         |
+| Ilves elää isossa vanhassa metsässä | The lynx lives in the big old forest    |
+| He ovat mariassa                    | They are picking berries                |
+| Ne elevät kylmässä Suomessa         | They live in cold Finland               |
+| Kylmät porot ovat jäässä            | The cold streams are frozen             |
+| Ne kävelevät pois                   | They walk away                          |
+| Se on yleensä jo jäässä             | It is usually frozen                    |
+| Se elää tässa puussa                | It lives in this tree                   |
+| Kivi on keskellä puroa              | The rock is in the middle of the stream |
+| Vanha puu kasvaa tässä mestsässä    | The old tree grows in this forest       |
+| Ollemme piilossa puussa             | We are hinding in the tree              |
 
 
 
@@ -1046,6 +1052,18 @@ Hänellä ei ole kaikki muumit laaksossa, He does not have all the moomins in th
 Nostaa kissa pöydälle, lift the cat on the, table adress the elephant in the room
 Ne on kissanristiäiset, it's a cat christening, this event is not worth going
 Helppo nakki, easy sausage, this will be easy
+Tontut kurkkii ikkunasta, Elves peek througth the winter before christmas
+
+jaksaa, to endure cope manage,
+Maa en jaksaa, I don't have the energy
+Emmä jaksa, I am too tired
+Joo ei mitään kyl mä jaksan, Yeah it is nothing I am up for it
+
+löyly, steam and heat in sauna
+
+tarjeta, to be able to endure the cold
+Kylla täällä tarkenee
+
 
 
 * From Start to Finnish
