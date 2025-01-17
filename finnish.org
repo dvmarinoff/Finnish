@@ -999,19 +999,19 @@ What is the difference between?
 | yleensä     | usually          |
 | myrkyllinen | poisonous        |
 
-| vanhassa | in the old      |
-| purossa  | in the stream   |
-| marjassa | picking berries |
-| kalassa  | fishing         |
-| puussa   | in this tree    |
-| metsässä | in the forest   |
-| maassa   | on the ground   |
+| vanhassa | in the old          |
+| purossa  | in the stream       |
+| puussa   | in this tree        |
+| metsässä | in the forest       |
+| maassa   | on the ground       |
+| piilossa | hiding hiding place |
+| kalassa  | fishing             |
+| marjassa | picking berries     |
 
 | hymyillä  | to smile             |
 | haistella | to sniff             |
 | kuulla    | to hear              |
 | piilo     | to hide hiding place |
-| piilossa  | hiding hiding place  |
 
 | hymyilen  | I smile        |
 |           |                |
@@ -1087,6 +1087,109 @@ What is the difference between?
 
 Koira on surullinen Silla on ikävä meitä
 
+** Section 2, Unit 8 Go to a coffee shop
+
+lakritsia, licorice
+piirakka, a pie
+karkki, candy
+hillo, jam
+simaa, mead
+salmiakki, salmiakki
+kiisseliä, kissel
+viinerit, danishes pastry
+rahka, quark
+korvapuusti, cinnamon roll
+lörtsyä, lörtsy
+täytekakku, layered cake
+herkku, delicacy
+herkullinen, delicious
+suolaista, salty
+banaani, banana
+suklaa, chokolate
+leivos, pastry
+kinuskia, kinusk chokolate
+karjalanpiirakkaa, karelian pasties
+raha, money
+voi, butter
+munkkia, jelly dougnuts
+
+vahva, strong
+
+syön, I eat
+syöt, you eat
+syö, he she eats
+
+juon, I drink
+
+maistaa, to taste
+
+
+maksaa, it costs
+maksavat, they cost
+
+ostaa, he she is buying
+
+myydä, to sell
+myymme, we sell
+myyvät, they sell
+
+saada, to get
+saavatko, do get
+saameko, can we get
+
+sulava, to melt
+
+Minä syön kakkua, I am eating cake
+Minä joun nyt kahvia, I am drinking coffee now
+Paljonko yksi glögi maksaa, How much does one glogi costs
+Paljonko nämä omenat maksavat, How much do there apples cost
+Saavatko ne lisää maitoa, Do they get more milk
+Istun kahvilassa ja syön piirakkaa, I am sitting in a cafe and eating a pie
+Miksi sinä ostat niin harvoin kahvia? Etkö sinä ole suomalainen?, Why do you drink coffee so often? Are you Finnish?
+Otso istuu mukavassa kahvilassa ja syö pulla, Otso is sitting in a cozy cafe and eating pulla
+Hän syö viineriä kahvilassa, He is eating a Danish in the cafe
+Onko tämä suklaa suomalaista, Is this chocolate finnish
+Kuppi kahvia mustana kiitos, A cup of coffee black please
+Otso syö herkullista lörtsyä, Otso is eating a delicious lörtsy
+Kaksi kuppia kahvia mustana kiitos, Two cups of coffee black please
+
+
+** Section 2, Unit 9 Tell Time
+
+
+yö, night
+ilta, evening
+aamu, morning
+päivä, daytime
+iltapäivä, afternoon
+minuutia, minute
+sekuntia, seconds
+hetki, a momemnt
+kalenteri, calendar
+myöhä, late
+melkein, almost
+kiire, busy hurry
+väsynyt, tired
+joka, every
+puoli, half
+
+yksitoista, eleven
+kaksitoista, twelve
+
+
+
+On yö, it is night
+Kello seisoo, the clock has stopeed
+Onko sinulla kiire, Are you busy
+Paljonko kello on, what time is it
+Paljonko meillä aikaa Kymennen minutia, How much time do we have Ten minutes
+Tasan kuusi, exactly six o'clock
+Puoli neljia, half past three
+Yksi sekunti kaksi sekuntia, One secone two seconds
+Joka hetki on tärkeä, Every moment counts
+Olen nykyään kotona joka ilta, I am home every evening nowadays
+Hetkinen, Just a moment
+
 
 * Puhekieli
 
@@ -1109,6 +1212,8 @@ löyly, steam and heat in sauna
 
 tarjeta, to be able to endure the cold
 Kylla täällä tarkenee
+
+
 
 
 
