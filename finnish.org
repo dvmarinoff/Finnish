@@ -1089,106 +1089,273 @@ Koira on surullinen Silla on ikävä meitä
 
 ** Section 2, Unit 8 Go to a coffee shop
 
-lakritsia, licorice
-piirakka, a pie
-karkki, candy
-hillo, jam
-simaa, mead
-salmiakki, salmiakki
-kiisseliä, kissel
-viinerit, danishes pastry
-rahka, quark
-korvapuusti, cinnamon roll
-lörtsyä, lörtsy
-täytekakku, layered cake
-herkku, delicacy
-herkullinen, delicious
-suolaista, salty
-banaani, banana
-suklaa, chokolate
-leivos, pastry
-kinuskia, kinusk chokolate
-karjalanpiirakkaa, karelian pasties
-raha, money
-voi, butter
-munkkia, jelly dougnuts
+| lakritsia         | licorice         |
+| piirakka          | a pie            |
+| karkki            | candy            |
+| hillo             | jam              |
+| simaa             | mead             |
+| salmiakki         | salmiakki        |
+| kiisseliä         | kissel           |
+| viinerit          | danishes pastry  |
+| rahka             | quark            |
+| korvapuusti       | cinnamon roll    |
+| lörtsyä           | lörtsy           |
+| täytekakku        | layered cake     |
+| herkku            | delicacy         |
+| herkullinen       | delicious        |
+| suolaista         | salty            |
+| banaani           | banana           |
+| suklaa            | chokolate        |
+| leivos            | pastry           |
+| kinuskia          | kinusk chokolate |
+| karjalanpiirakkaa | karelian pasties |
+| raha              | money            |
+| voi               | butter           |
+| munkkia           | jelly dougnuts   |
 
 vahva, strong
 
-syön, I eat
-syöt, you eat
-syö, he she eats
+| syön | I eat       |
+| syöt | you eat     |
+| syö  | he she eats |
 
 juon, I drink
 
 maistaa, to taste
 
 
-maksaa, it costs
-maksavat, they cost
+| maksaa   | it costs  |
+| maksavat | they cost |
 
 ostaa, he she is buying
 
-myydä, to sell
-myymme, we sell
-myyvät, they sell
+| myydä  | to sell   |
+| myymme | we sell   |
+| myyvät | they sell |
 
-saada, to get
-saavatko, do get
-saameko, can we get
+| saada    | to get     |
+| saavatko | do get     |
+| saameko  | can we get |
 
 sulava, to melt
 
-Minä syön kakkua, I am eating cake
-Minä joun nyt kahvia, I am drinking coffee now
-Paljonko yksi glögi maksaa, How much does one glogi costs
-Paljonko nämä omenat maksavat, How much do there apples cost
-Saavatko ne lisää maitoa, Do they get more milk
-Istun kahvilassa ja syön piirakkaa, I am sitting in a cafe and eating a pie
-Miksi sinä ostat niin harvoin kahvia? Etkö sinä ole suomalainen?, Why do you drink coffee so often? Are you Finnish?
-Otso istuu mukavassa kahvilassa ja syö pulla, Otso is sitting in a cozy cafe and eating pulla
-Hän syö viineriä kahvilassa, He is eating a Danish in the cafe
-Onko tämä suklaa suomalaista, Is this chocolate finnish
-Kuppi kahvia mustana kiitos, A cup of coffee black please
-Otso syö herkullista lörtsyä, Otso is eating a delicious lörtsy
-Kaksi kuppia kahvia mustana kiitos, Two cups of coffee black please
+| Minä syön kakkua                                                 | I am eating cake                                   |
+| Minä joun nyt kahvia                                             | I am drinking coffee now                           |
+| Paljonko yksi glögi maksaa                                       | How much does one glogi costs                      |
+| Paljonko nämä omenat maksavat                                    | How much do there apples cost                      |
+| Saavatko ne lisää maitoa                                         | Do they get more milk                              |
+| Istun kahvilassa ja syön piirakkaa                               | I am sitting in a cafe and eating a pie            |
+| Miksi sinä ostat niin harvoin kahvia? Etkö sinä ole suomalainen? | Why do you drink coffee so often? Are you Finnish? |
+| Otso istuu mukavassa kahvilassa ja syö pulla                     | Otso is sitting in a cozy cafe and eating pulla    |
+| Hän syö viineriä kahvilassa                                      | He is eating a Danish in the cafe                  |
+| Onko tämä suklaa suomalaista                                     | Is this chocolate finnish                          |
+| Kuppi kahvia mustana kiitos                                      | A cup of coffee black please                       |
+| Otso syö herkullista lörtsyä                                     | Otso is eating a delicious lörtsy                  |
+| Kaksi kuppia kahvia mustana kiitos                               | Two cups of coffee black please                    |
 
 
 ** Section 2, Unit 9 Tell Time
 
+| yö        | night      |
+| ilta      | evening    |
+| aamu      | morning    |
+| päivä     | daytime    |
+| iltapäivä | afternoon  |
+| minuutia  | minute     |
+| sekuntia  | seconds    |
+| hetki     | a momemnt  |
+| kalenteri | calendar   |
+| myöhä     | late       |
+| melkein   | almost     |
+| kiire     | busy hurry |
+| väsynyt   | tired      |
+| joka      | every      |
+| puoli     | half       |
 
-yö, night
-ilta, evening
-aamu, morning
-päivä, daytime
-iltapäivä, afternoon
-minuutia, minute
-sekuntia, seconds
-hetki, a momemnt
-kalenteri, calendar
-myöhä, late
-melkein, almost
-kiire, busy hurry
-väsynyt, tired
-joka, every
-puoli, half
+| yksitoista  | eleven |
+| kaksitoista | twelve |
 
-yksitoista, eleven
-kaksitoista, twelve
+| On yö                                  | it is night                          |
+| Kello seisoo                           | the clock has stopeed                |
+| Onko sinulla kiire                     | Are you busy                         |
+| Paljonko kello on                      | what time is it                      |
+| Paljonko meillä aikaa Kymennen minutia | How much time do we have Ten minutes |
+| Tasan kuusi                            | exactly six o'clock                  |
+| Puoli neljia                           | half past three                      |
+| Yksi sekunti kaksi sekuntia            | One secone two seconds               |
+| Joka hetki on tärkeä                   | Every moment counts                  |
+| Olen nykyään kotona joka ilta          | I am home every evening nowadays     |
+| Hetkinen                               | Just a moment                        |
+| Pieni hetki                            | Just a moment                        |
 
 
+** Section 2, Unit 10 From sentences
 
-On yö, it is night
-Kello seisoo, the clock has stopeed
-Onko sinulla kiire, Are you busy
-Paljonko kello on, what time is it
-Paljonko meillä aikaa Kymennen minutia, How much time do we have Ten minutes
-Tasan kuusi, exactly six o'clock
-Puoli neljia, half past three
-Yksi sekunti kaksi sekuntia, One secone two seconds
-Joka hetki on tärkeä, Every moment counts
-Olen nykyään kotona joka ilta, I am home every evening nowadays
-Hetkinen, Just a moment
+| muutama | a few |
+| kuin    | like  |
+
+| lehti    | leaf        |
+| sieni    | mushroom    |
+| helmi    | pearl       |
+| kuusi    | spruce      |
+| tammi    | oak         |
+| susi     | wolf        |
+| hirvi    | moose       |
+| vadelmat | raspberries |
+| joki     | river       |
+| lumi     | snow        |
+| suo      | bog         |
+| tähti    | stars       |
+| taivas   | sky         |
+| pilvi    | cloud       |
+| kuu      | moon        |
+| veri     | blood       |
+| onni     | happiness   |
+
+| syvä        | deep            |
+| vaarallinen | dangerous       |
+| turvallinen | safe            |
+| tyyni       | calm            |
+| kirkas      | bright          |
+| rauhassa    | peace and quiet |
+| märkä       | wet             |
+| korkea      | tall            |
+
+
+| Kasvissa on vain yksi lehti               | the plant has only one leaf                         |
+| Maassa on suuri punainen lehti            | there is a large red leaf on the ground             |
+| Tuossa on sieni                           | there is a mushroom there                           |
+| Lähellä on poro                           | there is a stream nearby                            |
+| Minä ihailen taivasta                     | I am admiring the sky                               |
+| Puistossa on outo kuusi                   | there is a strange tree in the park                 |
+| Vanhassa puussa on vain yksi ruskea lehti | There is only one brown leaf  on the old tree       |
+| Kuussa on mies koira ja paljon juustoa    | there is a man a dog and lots of cheese on the moon |
+| Korkeassa puussa elää visas pöllö         | There is a wise owl living in the tall tree         |
+| Korkea puu pitkä ihminen                  | a tall tree a tall person                           |
+| Tuo ei ole järvi eikä meri                | That is neither a lake nor a sea                    |
+| Tässä on muutamma vadelma                 | It has a few raspberries                            |
+
+
+** Section 2, Unit 11 Common Phrases
+
+| varovainen | careful      |
+| lähin      | closest      |
+| apua       | help         |
+| varma      | sure certain |
+| kai        | I guess      |
+| ihan       | just         |
+| myöhemmin  | later        |
+| pian       | soon         |
+
+| oikeassa | right |
+| väärässä | wrong |
+
+| Hyommenta                             | Good morning                                      |
+| Hyvä yötä                             | Good night                                        |
+| Hyvää iltaa                           | Good evening                                      |
+| Päivää Pöllö                          | Good day Pöllö                                    |
+| Hyvää päivänjatkoa                    | Have a nice day                                   |
+| Mitä kuuluu?                          | How are you                                       |
+| Nähdään                               | See you                                           |
+| Nähdään myöhemmin                     | See you later                                     |
+| Nähdään pian                          | See you soom                                      |
+| Ole varovainen                        | Be careful                                        |
+| Ole kiltti ja ole varovainen          | Pleas be careful                                  |
+| Varo                                  | Watch out                                         |
+| Olet oikeassa                         | You are right                                     |
+| Olen yleensa väärässä                 | I am usually wrong                                |
+| Olen myöhässä                         | I am late                                         |
+| Oletko sinä varma                     | Are you sure                                      |
+| Kai sillä on jano                     | I guess it is thirsty                             |
+| Se on ihan hyvää                      | It is just fine                                   |
+| Ihan hyvää kai                        | Pretty well I guess                               |
+| Kaikki on ihan hyvin                  | Everything is quite OK                            |
+| No ei mitään                          | Well nothing speciel                              |
+| Lähin puisto on tuolla                | The closest park is there                         |
+| Hei osaatko sanoo missä ooperatalo on | Hi can you tell me where is the opera house       |
+| Ketkä ovat oikeassa ja ketkä väärässa | Which people are right and which people are wrong |
+| Minulla on kiire mutta ehkä myöhemmin | I an busy but maybe later                         |
+
+
+** Section 2, Unit 12 Talk about technology
+
+| tuota | that |
+
+| sovellus     | app        |
+| läppäri      | laptop     |
+| akku         | battery    |
+| pistoke      | power plug |
+| seina        | wall       |
+| ääni         | sound      |
+| laturi       | charger    |
+| nettiä       | internet   |
+| puhelin      | phone      |
+| tulostin     | printer    |
+| tabletti     | tablet     |
+| peli         | game       |
+| meemi        | meme       |
+| prinsessa    | princess   |
+| kamera       | camera     |
+| radio        | radio      |
+| video        | video      |
+| televisiotta | television |
+| mikrofonia   | microphone |
+
+| toimi    | working |
+| suosittu | popular |
+| hidas    | slow    |
+| nopea    | fast    |
+| edes     | even    |
+| päällä   | on      |
+
+| lainata | to borrow   |
+| pitää   | needs to be |
+| pätkii  | breaking up |
+
+| voida  | may can to be able to |
+| voi    | can                   |
+| voinko | can I                 |
+
+| käyttää | to use |
+
+| pelaatte | you are playing  |
+| pelaavat | they are playing |
+
+| sovellusta   |
+| radiota      |
+| puhelinta    |
+| televisiotta |
+| tulostinta   |
+| läppäriä     |
+
+| seinässä | plugged in |
+
+Haloo, hello
+
+Q, subject, verb, part, pril
+
+| Onko meillä radiota                  | Do we have a radio                                        |                         |
+| Onko heilla televisiotta             | Do they have a television                                 |                         |
+| Onko sinulla laturia                 | Do you have a charger                                     |                         |
+| Me emme halua tuota kameraa          | We do not want that camera                                |                         |
+| Netti on taas tosi hidas             | The internet is really slow again                         |                         |
+| Miksi tämä laturi on niin hidas      | Why is this charger so slow                               |                         |
+| Se pitää korjata                     | It needs to be fixed                                      |                         |
+| Jee                                  | se toimii taas                                            | Yay it is working again |
+| Haloo Kuuletko sinä minuä            | Hello Can you hear me                                     |                         |
+| Ääni pätki koska mikrofonia on rikki | The sound is breaking up because the microphone is broken |                         |
+| Onko se tarpeeksi nopea              | Is it fast enough                                         |                         |
+| Onko se edes päällä                  | Is it even on                                             |                         |
+| Toimiiko se                          | Is it working                                             |                         |
+| Pistoke on kai rikki                 | I guess the power plug is broken                          |                         |
+| Se on seinässä                       | It is plugged in                                          |                         |
+| Läppärissä on uusi akku              | The laptop has a new battery                              |                         |
+| Meemissä on japanilainen koira       | There is a japanise dog in the meme                       |                         |
+| Pelissä on monta prinsessa           | There are many princesses in the game                     |                         |
+| Voinko lainata puhelinta             | Can I borrow the phone                                    |                         |
+| Mitä peliä te pelaatte               | What game are you playing                                 |                         |
+| Pöllönen miksi sinä duolingossa      | Pöllönen why are you on duolingo                          |                         |
+| Miksi sinä et halua ostaa kameraa    | Why do you not want to buy that camera                    |                         |
 
 
 * Puhekieli
