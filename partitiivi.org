@@ -1,0 +1,112 @@
+* Partitiivi
+
+** Vowel balance
+
+| 1 | 2 | 3 |
+|---|---|---|
+| ä | e | a |
+| ö | i | o |
+| y |   | u |
+
+- 1 does not mix with 3
+- 2 mixes with both
+- the vowels in the stem determine the vowels in the ending
+- compound words take all vowels, but the last word determinse the ending
+
+- auto-ssa, in a car
+- keittiö+ssä, in a kitchen
+- puhut+ko, do you speak
+- kysyt+kö, do you ask
+
+** Construction
+
+*** Rule 1
+
+Partitiivi -a
+
+when the word ends in ONE vowel (unless it's `e`), add `a` or `ä`
+
+talo -> talo-a
+koira -> koira-a
+leipä -> leipä-ä
+Matti -> Matti-a
+
+musta + koiraa + partiivi -> `mustaa koiraa`
+
+*** Rule 2
+
+when the word basic form of the word end in TWO vowels or a consonant, add `ta` or `tä`
+
+tee -> tee-tä
+sää -> sää-tä
+puu -> puu-ta
+avain -> avain-ta
+
+*** Rule 3
+
+when the word ends in an `-e`, add `tta` or `ttä`
+
+huone -> huone-tta
+perhe -> perhe-ttä
+lentokone -> lentokone-tta
+
+*** Rule 4
+
+when a word ends in `-nen`, drop the `nen` and add `sta` or `stä`
+
+sininen -> sini-stä
+keltainen -> keltai-sta
+vihainen -> vihai-sta
+tavallinen -> tavallista
+Virtanen -> Virta-sta
+
+
+*** Rule 5
+
+when it is an 'old finnish word',
+
+**** Rule 5.1
+
+when old word ends in `-i`, switch `-i` to `-e` and add `-a` or `ä`
+
+Suomi -> Suom-e-a
+järvi -> järv-e-ä
+hirvi -> hirv-e-a
+lumi -> lum-e-a
+
+**** Rule 5.2
+
+when old word ends in `-si`, remove the `-si` and add `tta` or `ttä`
+
+uusi -> uu-tta
+vesi -> ve-ttä
+vuosi -> vuo-tta
+
+
+
+** Use
+
+Numbers
+`kolme omenaa` -> three of apples
+
+It helps specify that you are talking about a part of a larger quantity
+
+Negative
+
+`minulla ei ole koiraa` -> I don't have any dog
+
+
+
+** Cases
+
+- instead of propositions which signify what is going on cases use suffixes
+- his table, on the table, at the table, the table, by the table, under the table, for the table, from the table
+- all these will become separate words
+- 4 word categories use cases, nouns, adjectives, pronouns, numerals
+- suffixes are added to the word stem, sometimes the whole word is the stem, sometimes, the core word spelling changes
+
+koira,        the dog
+koira-ni,     my dog
+koira-si,     your dog
+koira-lla on, the dog has
+koira-lle,    to the dog

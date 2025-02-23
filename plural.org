@@ -1,0 +1,70 @@
+* Plural
+
+Nominatiivi, the basic form of the word
+Nominatiive Plural, add a -t
+
+but there are some deviation rules, like,
+
+*** 1. the KPT Changes, if the last tavu, contains the letter, k/p/t, or kk/pp/tt, change to,
+
+- k -> remove k
+- p -> v
+- t -> d
+- kk -> k
+- pp -> p
+- tt -> t
+
+Normal, Koira -> Koira-t
+k,      Sika -> Sia-t
+p,      Lupa -> Lu-v-a-t
+t,      Äiti -> Äi-d-i-t
+kk,     Takki -> Tak-i-t
+pp,     Noppa -> Nop-a-t
+tt,     Kettu -> Ket-u-t
+
+*** 2. words that end in -nen
+- nen -> se
+
+Sininen -> Sini-se-t
+Punainen -> Punai-se-t
+Nainen -> Nai-se-t
+Perhonen -> Perho-se-t
+
+*** 3. words that end in -i, it deals with native vs loan words (sound like english or german or swedish)
+
+loan word -> just add -t
+native word -> i becomes e than add -t
+
+Banaani -> Banaani-t
+Posti -> Posti-t
+Paperi -> Paperi-t
+
+Nuori -> Nuor-e-t
+Meri -> Mer-e-t
+Tuli -> Tul-e-t
+
+Siipi -> Siivet
+
+*** 4. word end in an -e, add an extra one before adding -t
+
+Huone -> Huoneet
+Perhe -> Perheet
+Kirje -> Kirjeet
+
+- 5. native word ending in -si, change to -de
+
+Vesi -> Ve-de-t
+Vuosi -> Vuo-de-t
+Uusi -> Uu-de-t
+Käsi -> Kä-de-t
+
+*** Verbs Type I
+
+- the most common, they end in two vowels, aa, ee, ii, oo, uu, yy, ää, öö
+
+sanoa
+ajaa
+asua
+kysyä
+rakastaa
+katsoa
