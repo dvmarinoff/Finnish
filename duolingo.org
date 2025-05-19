@@ -897,21 +897,20 @@ Q, subject, verb, part, pril
 
 ** Section 2, Unit 13 Order Food and Drink
 
-yhtään, at all any
-
+| yhtään         | at all any   |
 | ravintola      | restaurant   |
 | vessa          | restroom     |
 | lusikka        | spoon        |
 | ruokalista     | menu         |
 | lasku          | the check    |
-| tatjoilija     | a waiter     |
-| lounas         | lunch        |
-| päivällinen    | dinner       |
+| tarjoilija     | a waiter     |
 | kokki          | a cook       |
-| appelsiini     | orange       |
-| olut           | beer         |
 | keittiö        | kitchen      |
 | keitto         | soup         |
+| lounas         | lunch        |
+| päivällinen    | dinner       |
+| appelsiini     | orange       |
+| olut           | beer         |
 | riisi          | rice         |
 | pasta          | pasta        |
 | pitsa          | pizza        |
@@ -922,8 +921,8 @@ yhtään, at all any
 | annos          | portion      |
 | annosta        | portions of  |
 | virhe          | mistake      |
-
-| paikallista | local |
+| suosittua      | popular      |
+| paikallista    | local        |
 
 | pahoillaan  | sorry        |
 | pahoillani  | I am sorry   |
@@ -938,19 +937,191 @@ yhtään, at all any
 | saisinko    | could I get            |
 | haluaisitko | would you like to have |
 
-| Olen pahoillani                            | My apologies                                                   |
-| Olen todella pahoillani                    | My deepest apologies                                           |
-| Olka hyvä                                  | here you are                                                   |
-| Saisinko lisää juotavaa                    | Could I get someting more to drink                             |
-| Saisimmeko lisää viiniä                    | Could we have more wine                                        |
-| Saisimmeko pastaa jossa on paljon juustoa  | Could we have pasta which has a lot of cheese                  |
-| Onko se halpaa vai kallista                | Is it cheap or expensive                                       |
-| Mitä saisi olla                            | What can I get you                                             |
-| Haluaisitko viela jotain? Ehkä kuppi kahvi | Would you like to have something else? Perhaps a cup of coffee |
-| Haluaisitko käydä tuossa ravintolassa      | Would you like to go that restaurant                           |
-| Haluaisin miettiä vielä vähän aikaa        | I would like to think for a while longer                       |
-| Laskussa on virhe                          | There is a mistake in the check                                |
-| Voisitteko suositella jotain               | Could you recommend something                                  |
-| On aika syödä lounasta                     | It is time to eat lunch                                        |
-| Kaksi puloa olutta                         | kiitos Two bottles of beer please                              |
+| Olen pahoillani                                | My apologies                                                   |
+| Olen todella pahoillani                        | My deepest apologies                                           |
+| Olka hyvä                                      | here you are                                                   |
+| Saisinko lisää juotavaa                        | Could I get someting more to drink                             |
+| Saisimmeko lisää viiniä                        | Could we have more wine                                        |
+| Saisimmeko pastaa jossa on paljon juustoa      | Could we have pasta which has a lot of cheese                  |
+| Onko se halpaa vai kallista                    | Is it cheap or expensive                                       |
+| Mitä saisi olla                                | What can I get you                                             |
+| Mitä tässä pitsassa on                         | What is on this pizza                                          |
+| Haluaisitko viela jotain? Ehkä kuppi kahvi     | Would you like to have something else? Perhaps a cup of coffee |
+| Haluaisitko käydä tuossa ravintolassa          | Would you like to go to that restaurant                        |
+| Haluaisin miettiä vielä vähän aikaa            | I would like to think for a while longer                       |
+| Laskussa on virhe                              | There is a mistake in the check                                |
+| Voisitteko suositella jotain                   | Could you recommend something                                  |
+| Voisitko suositella jotain paikallista herkkua | Could you recommend some local delicacy                        |
+| On aika syödä lounasta                         | It is time to eat lunch                                        |
+| On yo ja kaksi kokkia tiskaa keittiössä        | It is nigth and two cooks are doing the dishes in the kitchen  |
+| Kaksi puloa olutta                             | Two bottles of beer please                                     |
+| Miksi tässä lörtsyssä ei ole yhtään hilloa     | Why is there no jam in this lörtsy                             |
+| Tuossa kiisselissa on vadelmaa                 | There is raspberry in that kissel                              |
+| Meillä ei ole yhtään suklaata                  | We do not have any chokolate                                   |
+| Onko tuossa ravintolassa terassia              | Does that restaurant have a terrace                            |
+| Pöytä on lähellä keittiötä                     | The table is close to the kitchen                              |
+
+** Section 2, Unit 14 Explore a City
+
+| joku    | someone    |
+| jotka   | which that |
+| jossain | somewhere  |
+
+| historia    | history             |
+| kemia       | chemistry           |
+| katu        | street              |
+| yliopistoa  | universities        |
+| hotelli     | hotel               |
+| metro       | subway              |
+| keskustassa | downtown            |
+| miljoona    | million             |
+| asukas      | inhabitant          |
+| asukasta    | inhabitants         |
+| elokuva     | movie               |
+| näytelmä    | play                |
+| maalaus     | a painting          |
+| sarja       | series              |
+| ruuhka      | traffic jam crowded |
+| viikko      | week                |
+| lomalla     | vacation            |
+
+tyhjä, empty
+
+opiskella, to study
+
+| käy    | visit     |
+| käytte | you visit |
+
+käytkö, do you
+
+katselevat, they are watching
+
+
+| sänky    | sängyt    | beds    |
+| kaupunki | kaupungit | cites   |
+| viikinki | viikingit | vikings |
+
+| Käytkö sinä täällä usein                                          | Do you come here often                                   |
+| Käytkö sinä usein elokuvista                                      | Do you often go to the movies                            |
+| Missä hetellissa sinä asut                                        | In which hotel are you staying                           |
+| Metrossa on vain kaksi ihmista                                    | There are only two people in the metro                   |
+| Anteeksi osaatko sanoa missä lähin hotelli on                     | Excuse me can you tell me where the closest hotel is     |
+| Tyhjässä hotellissa on hiljaista                                  | It is quite in the empty hotel                           |
+| Täällä on tyhjää ja hiljaista                                     | It is empty and quiet here                               |
+| Näytelmässä on surullinen tanskalainen mies                       | There is a sad Danish man in the play                    |
+| Mitä sarjaa te katselette                                         | What series are you watching                             |
+| Kaksi berliiniläistä miestä katselee yhdessä ranskalaista elokuva | Two men from Berlin are watching a french movie together |
+| Minulla on viikko aika siivota tämä asunto                        | I have a week to clean this apartment                    |
+| Leo ja Matti käyvät tässä museossa joka viikko                    | Leo and Matti visit this museum every week               |
+| He ovat elokuvissa                                                | They are at the movies                                   |
+| Metrossa on ruuhka                                                | It is crowded in the metro                               |
+| Helsingissä on metro                                              | There is a metro in Helsinki                             |
+| Kaisa on yötä Helsingissä                                         | Kaisa is spending the night in Helsinki                  |
+| Mikä kiire                                                        | so busy                                                  |
+| Pari tyttöä istuu kahvilassa                                      | A couple of girls are sitting in the cafe                |
+| Stadion on täällä josain                                          | The Stadion is somewhere over here                       |
+| Me ihailemme kaunista maalausta museossa                          | We are admiring a beautiful painting in the museum       |
+| Montako minuuttia metro on myöhässä                               | By how many minutes is the metro late                    |
+
+
+** Section 2, Unit 15 Shop for cloths
+
+| Minkäkokoine  | What size    |
+| Minkäkokoista | What size    |
+| Millaista     | What kind of |
+| Millaiset     | What kind of |
+| Minkävärinen  | What color   |
+
+| sitä     | it       |
+| vihreänä | in green |
+| harmaana | in gray  |
+
+| housut       | pants           |
+| paita        | shirt           |
+| takki        | coat            |
+| mekko        | dress           |
+| hattu        | hat             |
+| kengät       | shoes           |
+| kravatti     | tie             |
+| vyö          | belt            |
+| lasit        | glasses         |
+| sormus       | ring            |
+| kokoa        | size            |
+| istu         | fit             |
+| muoti        | fashion         |
+| sovituskoppi | a fitting room  |
+| timantti     | diamond         |
+| koru         | piece of jewery |
+| väri         | color           |
+| ale          | sale            |
+
+| sata       | one hundred |
+| kaksisataa | two hundred |
+
+| violetti | purpule  |
+| kirjavaa | colorful |
+| ruma     | ugly     |
+
+| sovittaa   | to try on |
+| auttaa     | to help   |
+| ostoksilla | shopping  |
+
+| Voinko auttaa                                    | Can I help you                                            |
+| Onko se muotia                                   | Is it in fashion                                          |
+| Tämä takki ei istu                               | This coat does not fit                                    |
+| Nämä housut maksavat liikaa                      | These pants cost too much                                 |
+| Montako euroa se maksaa                          | How many euros does it cost                               |
+| Se maksaa sata euroa                             | It costs hundred euros                                    |
+| Millaista kelloa etsit                           | What kind of watch are you looking for                    |
+| Minkäkokoista paitaa etsit                       | What size shirt are you looking for                       |
+| Minkäkokoinen tämä paitaa on                     | What size is this shirt                                   |
+| Minkäkokoiset nämä housut ovat                   | What size are these pants                                 |
+| Millaiset lasit ne ovat                          | What kind of glasses are they                             |
+| Missä voin soivittaa sitä                        | Wher can I try it on                                      |
+| Onko teilla tätä vihreänä                        | Do you have this in green                                 |
+| Voit sovittaa paitaa tuolla                      | You can try on the shirt over there                       |
+| Punaiset lasit                                   | red glasses                                               |
+| Mitä Kuinka tuo koru voi maksaa viisisataa euroa | What How can that piece of jewery cost five hundred euros |
+| Ihailen sitä koska se on kaunis                  | I admire it because it is beautiful                       |
+| Sveistiläiset korut ovat tuossa                  | The Swiss jewery is right there                           |
+
+
+** Section 2, Unit 16 Use words that end in i
+
+kun, when
+joten, so
+
+hiiri, mouse
+saari, island
+sutta, wolf
+mäkeä, hill
+tie, road
+
+lasta, children
+merta, sea
+
+uutta, new
+
+yhtä, one
+kahta, two
+viittä, five
+kuutra, six
+
+kuuntele, listening
+huoma, notice
+seurata, follow
+luulen, reckon think
+
+
+Eläin puraisee sientä, The animal bites the mushroom
+Otso katselee kahta lintua, Otso is watching two birds
+Ilves haistelee pientä puuta, The lynx is sniffing the small tree
+Äiti kuuntele merta, Mother is listening to the sea
+Kaksi sutta jouksee ja juoksee, Two wolfs keep on running
+Lintu seuraa ja seuraa pilveä, The bird keeps on following the cloud
+Karhu murisee koska lähella on pari sutta, The bear is growling because there are a couple of wolves nearby
+Tuolla on vettä, There is water over there
+Me nousemme ylös mäkeä, We are ascending a hill
+
+
 

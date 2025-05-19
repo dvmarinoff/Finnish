@@ -28,3 +28,11 @@ Placeholder names
 
 Maija ja Matti Meikäläinen
 
+
+
+Email
+
+Ystävällisin terveisin, <Matti>
+Terkuin, <Matti>
+T: <Matti>
+
